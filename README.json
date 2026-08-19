@@ -118,7 +118,7 @@
             "last_commit": "2026-08-17T21:45:08Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189266
+            "stars": 189264
           }
         },
         {
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 53238813,
             "language": "Ruby",
-            "last_commit": "2026-08-19T07:43:02Z",
+            "last_commit": "2026-08-19T10:01:25Z",
             "owner": "Homebrew",
             "repo": "brew",
-            "stars": 49204
+            "stars": 49203
           }
         },
         {
@@ -145,10 +145,10 @@
             "archived": false,
             "id": 36836475,
             "language": "C",
-            "last_commit": "2026-08-19T08:35:01Z",
+            "last_commit": "2026-08-19T10:56:33Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48716
+            "stars": 48718
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2026-08-14T02:26:45Z",
             "owner": "apple",
             "repo": "swift-argument-parser",
-            "stars": 3755
+            "stars": 3756
           }
         },
         {
@@ -759,7 +759,7 @@
                 "last_commit": "2026-05-15T15:39:25Z",
                 "owner": "jlfwong",
                 "repo": "speedscope",
-                "stars": 6727
+                "stars": 6728
               }
             },
             {
@@ -924,7 +924,7 @@
             "last_commit": "2026-04-27T12:33:25Z",
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2872
+            "stars": 2873
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-07-10T19:21:20Z",
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8699
+            "stars": 8700
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-05-23T17:17:13Z",
             "owner": "pmusolino",
             "repo": "Wormholy",
-            "stars": 2612
+            "stars": 2613
           }
         }
       ],
@@ -1224,7 +1224,7 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-18T18:13:51Z",
+            "last_commit": "2026-08-19T11:01:55Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
             "stars": 27571
@@ -1255,10 +1255,10 @@
             "archived": false,
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-19T07:43:15Z",
+            "last_commit": "2026-08-19T10:04:26Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25727
+            "stars": 25729
           }
         },
         {
@@ -1273,7 +1273,7 @@
             "last_commit": "2026-02-16T21:29:09Z",
             "owner": "antlr",
             "repo": "antlr4",
-            "stars": 18983
+            "stars": 18984
           }
         },
         {
@@ -1645,7 +1645,7 @@
             "last_commit": "2026-08-13T10:29:27Z",
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 8961
+            "stars": 8962
           }
         },
         {
@@ -1675,7 +1675,7 @@
             "last_commit": "2022-07-09T08:24:07Z",
             "owner": "AloneMonkey",
             "repo": "MonkeyDev",
-            "stars": 6797
+            "stars": 6798
           }
         },
         {
@@ -1735,7 +1735,7 @@
             "last_commit": "2024-11-15T10:31:48Z",
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3822
+            "stars": 3823
           }
         },
         {
@@ -1765,7 +1765,7 @@
             "last_commit": "2017-10-26T12:06:48Z",
             "owner": "stefanesser",
             "repo": "dumpdecrypted",
-            "stars": 3032
+            "stars": 3033
           }
         },
         {
@@ -1810,7 +1810,7 @@
             "last_commit": "2025-03-29T19:45:56Z",
             "owner": "tyilo",
             "repo": "insert_dylib",
-            "stars": 2092
+            "stars": 2093
           }
         },
         {
@@ -2092,7 +2092,7 @@
             "last_commit": "2026-08-05T07:54:18Z",
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 35052
+            "stars": 35054
           }
         },
         {
@@ -2205,8 +2205,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:00:41.279Z",
+    "last_updated": "2026-08-19T12:34:50.901Z",
     "original_repository": "LeoMobileDeveloper/ios-developer-tools",
+    "original_repository_id": 82806422,
     "original_repository_sha": "4926efa12157c5c60910b8b86d1d2e00fcc0cb20",
     "enhanced_repository": "enhansome/enhansome-ios-developer-tools",
     "enhanced_repository_description": null,
