@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25050844,
             "language": "Swift",
             "last_commit": "2025-09-10T15:36:04Z",
             "owner": "Carthage",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173737635,
             "language": "Swift",
             "last_commit": "2020-10-22T21:01:45Z",
             "owner": "JamitLabs",
@@ -43,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17838583,
                 "language": "Ruby",
                 "last_commit": "2023-03-16T08:46:58Z",
                 "owner": "CocoaPods",
@@ -57,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 64607144,
                 "language": "Ruby",
                 "last_commit": "2019-01-18T09:02:59Z",
                 "owner": "UnsafePointer",
@@ -71,6 +75,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18778264,
                 "language": "Ruby",
                 "last_commit": "2023-02-13T03:30:19Z",
                 "owner": "segiddins",
@@ -85,6 +90,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116107207,
                 "language": "Ruby",
                 "last_commit": "2022-07-22T01:48:18Z",
                 "owner": "leavez",
@@ -98,7 +104,7 @@
       "title": "Dependency Manager"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -107,11 +113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291137,
             "language": "Shell",
             "last_commit": "2026-08-17T21:45:08Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189236
+            "stars": 189266
           }
         },
         {
@@ -121,11 +128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53238813,
             "language": "Ruby",
-            "last_commit": "2026-08-18T09:56:58Z",
+            "last_commit": "2026-08-19T07:43:02Z",
             "owner": "Homebrew",
             "repo": "brew",
-            "stars": 49191
+            "stars": 49204
           }
         },
         {
@@ -135,11 +143,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36836475,
             "language": "C",
-            "last_commit": "2026-08-18T09:49:29Z",
+            "last_commit": "2026-08-19T08:35:01Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48692
+            "stars": 48716
           }
         },
         {
@@ -149,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42029482,
             "language": "Perl",
             "last_commit": "2026-08-08T13:26:32Z",
             "owner": "AlDanial",
@@ -163,11 +173,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107258,
             "language": "Python",
             "last_commit": "2025-02-27T16:03:23Z",
             "owner": "wting",
             "repo": "autojump",
-            "stars": 16958
+            "stars": 16959
           }
         },
         {
@@ -177,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66302557,
             "language": "Swift",
             "last_commit": "2026-08-17T17:26:43Z",
             "owner": "nicklockwood",
@@ -191,11 +203,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97716052,
             "language": "Swift",
             "last_commit": "2026-07-16T06:42:48Z",
             "owner": "yonaskolb",
             "repo": "XcodeGen",
-            "stars": 8717
+            "stars": 8720
           }
         },
         {
@@ -205,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20552964,
             "language": "Ruby",
             "last_commit": "2026-06-30T09:54:55Z",
             "owner": "realm",
@@ -219,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9639981,
             "language": "Objective-C",
             "last_commit": "2019-12-11T08:21:02Z",
             "owner": "facebookarchive",
@@ -233,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19290579,
             "language": "Ruby",
             "last_commit": "2019-07-18T23:40:39Z",
             "owner": "venmo",
@@ -247,11 +263,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-18T09:42:11Z",
+            "last_commit": "2026-08-19T08:54:36Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5278
+            "stars": 5279
           }
         },
         {
@@ -261,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15035229,
             "language": "Ruby",
             "last_commit": "2025-03-26T19:42:24Z",
             "owner": "xcpretty",
@@ -275,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241928033,
             "language": "Swift",
             "last_commit": "2026-08-14T02:26:45Z",
             "owner": "apple",
@@ -289,6 +308,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43019030,
             "language": "C++",
             "last_commit": "2020-01-09T06:28:30Z",
             "owner": "facebookarchive",
@@ -303,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54463011,
             "language": "Python",
             "last_commit": "2026-08-10T09:28:00Z",
             "owner": "Serchinastico",
@@ -317,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161252402,
             "language": "Swift",
             "last_commit": "2019-10-16T13:58:37Z",
             "owner": "inamiy",
@@ -331,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106344941,
             "language": "Python",
             "last_commit": "2024-01-08T18:17:48Z",
             "owner": "lyft",
@@ -345,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1355632,
             "language": "Objective-C",
             "last_commit": "2024-05-29T23:33:00Z",
             "owner": "0xced",
@@ -356,7 +380,7 @@
       "title": "Command Line Tool"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -365,11 +389,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144705602,
             "language": "Java",
             "last_commit": "2025-08-12T11:43:04Z",
             "owner": "didi",
             "repo": "DoKit",
-            "stars": 20407
+            "stars": 20408
           }
         },
         {
@@ -379,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20277829,
             "language": "Objective-C",
             "last_commit": "2026-06-11T20:34:01Z",
             "owner": "FLEXTool",
@@ -393,11 +419,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1549138,
             "language": "Objective-C",
             "last_commit": "2026-08-12T06:31:06Z",
             "owner": "CocoaLumberjack",
             "repo": "CocoaLumberjack",
-            "stars": 13328
+            "stars": 13327
           }
         },
         {
@@ -407,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161292091,
             "language": "Java",
             "last_commit": "2024-07-23T10:46:08Z",
             "owner": "Tencent",
@@ -421,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17065530,
             "language": "Python",
             "last_commit": "2026-03-15T21:46:38Z",
             "owner": "facebook",
@@ -435,11 +464,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49316177,
             "language": "JavaScript",
             "last_commit": "2025-09-01T08:25:27Z",
             "owner": "wuchangming",
             "repo": "spy-debugger",
-            "stars": 7617
+            "stars": 7618
           }
         },
         {
@@ -449,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4471940,
             "language": "Objective-C",
             "last_commit": "2022-08-04T00:53:23Z",
             "owner": "johnno1962",
@@ -463,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5741345,
             "language": "Objective-C",
             "last_commit": "2021-03-30T07:00:58Z",
             "owner": "noodlewerk",
@@ -477,6 +509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8165161,
             "language": "C",
             "last_commit": "2025-07-02T07:34:34Z",
             "owner": "google",
@@ -491,11 +524,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5499847,
             "language": "Objective-C",
             "last_commit": "2023-03-18T22:52:48Z",
             "owner": "square",
             "repo": "PonyDebugger",
-            "stars": 5854
+            "stars": 5853
           }
         },
         {
@@ -505,6 +539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2567806,
             "language": "Objective-C",
             "last_commit": "2022-09-04T18:39:25Z",
             "owner": "KnuffApp",
@@ -519,8 +554,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4691393,
             "language": "Objective-C",
-            "last_commit": "2026-08-18T01:16:24Z",
+            "last_commit": "2026-08-18T13:57:40Z",
             "owner": "kstenerud",
             "repo": "KSCrash",
             "stars": 4479
@@ -533,6 +569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83022668,
             "language": "Swift",
             "last_commit": "2024-09-22T16:14:18Z",
             "owner": "zixun",
@@ -547,6 +584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21232952,
             "language": "C",
             "last_commit": "2025-10-25T11:53:45Z",
             "owner": "answer-huang",
@@ -561,11 +599,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198434721,
             "language": "Objective-C",
             "last_commit": "2024-07-17T09:04:57Z",
             "owner": "QMUI",
             "repo": "LookinServer",
-            "stars": 2858
+            "stars": 2859
           }
         },
         {
@@ -575,6 +614,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178764877,
             "language": "Swift",
             "last_commit": "2024-01-02T00:22:10Z",
             "owner": "indragiek",
@@ -589,6 +629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188110576,
             "language": "Swift",
             "last_commit": "2026-07-07T18:07:50Z",
             "owner": "MobileNativeFoundation",
@@ -603,6 +644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173854041,
             "language": "Objective-C",
             "last_commit": "2023-11-17T08:43:58Z",
             "owner": "meitu",
@@ -617,6 +659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66298021,
             "language": "Objective-C",
             "last_commit": "2020-08-21T13:45:49Z",
             "owner": "tobefuturer",
@@ -631,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30746599,
             "language": "Objective-C",
             "last_commit": "2017-08-08T12:20:38Z",
             "owner": "Naituw",
@@ -645,6 +689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74209590,
             "language": "Objective-C",
             "last_commit": "2024-05-31T07:28:18Z",
             "owner": "dbukowski",
@@ -659,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114210359,
             "language": "Swift",
             "last_commit": "2023-10-21T01:21:56Z",
             "owner": "wigl",
@@ -673,6 +719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102832172,
             "language": "C",
             "last_commit": "2026-08-04T14:39:40Z",
             "owner": "everettjf",
@@ -687,6 +734,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164134336,
             "language": "Swift",
             "last_commit": "2021-02-06T19:16:20Z",
             "owner": "isavynskyi",
@@ -706,6 +754,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 111653897,
                 "language": "TypeScript",
                 "last_commit": "2026-05-15T15:39:25Z",
                 "owner": "jlfwong",
@@ -720,6 +769,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 166688765,
                 "language": "Objective-C",
                 "last_commit": "2019-01-20T17:32:50Z",
                 "owner": "google",
@@ -730,92 +780,92 @@
           ]
         },
         {
-          "node_type": "item",
-          "title": "Hyperion",
-          "description": "In-app design review tool to inspect measurements, attributes, and animations.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FBRetainCycleDetector",
+              "description": "iOS library to help detecting retain cycles in runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55717457,
+                "language": "Objective-C++",
+                "last_commit": "2026-06-26T01:39:56Z",
+                "owner": "facebook",
+                "repo": "FBRetainCycleDetector",
+                "stars": 4232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FBMemoryProfiler",
+              "description": "iOS tool that helps with profiling iOS Memory usage.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55717949,
+                "language": "Objective-C",
+                "last_commit": "2020-04-25T15:58:50Z",
+                "owner": "facebookarchive",
+                "repo": "FBMemoryProfiler",
+                "stars": 3384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LifetimeTracker",
+              "description": "Find retain cycles / memory leaks sooner",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98870159,
+                "language": "Swift",
+                "last_commit": "2026-03-05T07:16:35Z",
+                "owner": "krzysztofzablocki",
+                "repo": "LifetimeTracker",
+                "stars": 3304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OOMDetector",
+              "description": "OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115068418,
+                "language": "Objective-C++",
+                "last_commit": "2023-02-21T02:31:59Z",
+                "owner": "Tencent",
+                "repo": "OOMDetector",
+                "stars": 2348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FBAllocationTracker",
+              "description": "iOS library that helps tracking all allocated Objective-C objects",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55717843,
+                "language": "Objective-C++",
+                "last_commit": "2021-12-13T17:38:54Z",
+                "owner": "facebookarchive",
+                "repo": "FBAllocationTracker",
+                "stars": 1090
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Memory"
         }
       ],
       "title": "DEBUG"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FBRetainCycleDetector",
-          "description": "iOS library to help detecting retain cycles in runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C++",
-            "last_commit": "2026-06-26T01:39:56Z",
-            "owner": "facebook",
-            "repo": "FBRetainCycleDetector",
-            "stars": 4232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FBMemoryProfiler",
-          "description": "iOS tool that helps with profiling iOS Memory usage.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C",
-            "last_commit": "2020-04-25T15:58:50Z",
-            "owner": "facebookarchive",
-            "repo": "FBMemoryProfiler",
-            "stars": 3384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LifetimeTracker",
-          "description": "Find retain cycles / memory leaks sooner",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-03-05T07:16:35Z",
-            "owner": "krzysztofzablocki",
-            "repo": "LifetimeTracker",
-            "stars": 3304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OOMDetector",
-          "description": "OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C++",
-            "last_commit": "2023-02-21T02:31:59Z",
-            "owner": "Tencent",
-            "repo": "OOMDetector",
-            "stars": 2348
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FBAllocationTracker",
-          "description": "iOS library that helps tracking all allocated Objective-C objects",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C++",
-            "last_commit": "2021-12-13T17:38:54Z",
-            "owner": "facebookarchive",
-            "repo": "FBAllocationTracker",
-            "stars": 1090
-          }
-        }
-      ],
-      "title": "Memory"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -824,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35732214,
             "language": "Swift",
             "last_commit": "2026-08-09T16:37:39Z",
             "owner": "realm",
@@ -838,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 169972846,
             "language": "Swift",
             "last_commit": "2026-08-12T09:22:11Z",
             "owner": "peripheryapp",
@@ -852,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84144167,
             "language": "Swift",
             "last_commit": "2026-05-09T06:43:43Z",
             "owner": "onevcat",
@@ -866,11 +919,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17406078,
             "language": "Swift",
             "last_commit": "2026-04-27T12:33:25Z",
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2873
+            "stars": 2872
           }
         },
         {
@@ -880,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93763457,
             "language": "Swift",
             "last_commit": "2026-08-15T02:10:39Z",
             "owner": "tuist",
@@ -894,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16147882,
             "language": "Ruby",
             "last_commit": "2026-04-12T14:59:55Z",
             "owner": "dblock",
@@ -908,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11394510,
             "language": "JavaScript",
             "last_commit": "2020-04-28T01:36:32Z",
             "owner": "PaulTaykalo",
@@ -922,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 12744627,
             "language": "Objective-C",
             "last_commit": "2018-11-02T20:46:57Z",
             "owner": "steventroughtonsmith",
@@ -936,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225575217,
             "language": "Swift",
             "last_commit": "2022-04-08T07:21:31Z",
             "owner": "woshiccm",
@@ -950,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286974,
             "language": "Python",
             "last_commit": "2024-01-19T14:42:16Z",
             "owner": "nst",
@@ -964,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77301681,
             "language": "Swift",
             "last_commit": "2018-06-14T12:10:48Z",
             "owner": "fastred",
@@ -978,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 541932,
             "language": "Python",
             "last_commit": "2018-12-28T03:22:02Z",
             "owner": "nst",
@@ -992,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62360534,
             "language": "Swift",
             "last_commit": "2017-02-06T05:25:25Z",
             "owner": "netyouli",
@@ -1006,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72513097,
             "language": "C++",
             "last_commit": "2018-08-22T03:36:26Z",
             "owner": "kangwang1988",
@@ -1017,7 +1081,7 @@
       "title": "Project Analyze"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1026,11 +1090,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1380117,
             "language": "Dart",
-            "last_commit": "2026-08-18T01:24:46Z",
+            "last_commit": "2026-08-19T04:41:25Z",
             "owner": "getlantern",
             "repo": "lantern",
-            "stars": 15885
+            "stars": 15887
           }
         },
         {
@@ -1040,11 +1105,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17183871,
             "language": "C",
             "last_commit": "2026-07-10T19:21:20Z",
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8698
+            "stars": 8699
           }
         },
         {
@@ -1054,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7369087,
             "language": "Objective-C",
             "last_commit": "2022-10-05T03:56:25Z",
             "owner": "swisspol",
@@ -1068,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91084289,
             "language": "Swift",
             "last_commit": "2024-08-20T10:54:06Z",
             "owner": "yagiz",
@@ -1082,11 +1150,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46502055,
             "language": "Swift",
             "last_commit": "2024-03-21T14:08:46Z",
             "owner": "kasketis",
             "repo": "netfox",
-            "stars": 3758
+            "stars": 3757
           }
         },
         {
@@ -1096,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128782492,
             "language": "Swift",
             "last_commit": "2026-05-23T17:17:13Z",
             "owner": "pmusolino",
@@ -1107,7 +1177,7 @@
       "title": "Network"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1116,11 +1186,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38617,
             "language": "C",
-            "last_commit": "2026-07-08T13:08:23Z",
+            "last_commit": "2026-08-18T13:58:59Z",
             "owner": "sqlcipher",
             "repo": "sqlcipher",
-            "stars": 7241
+            "stars": 7243
           }
         },
         {
@@ -1130,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56596333,
             "language": "Swift",
             "last_commit": "2023-01-23T17:43:05Z",
             "owner": "dsmelov",
@@ -1141,7 +1213,7 @@
       "title": "Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1150,11 +1222,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-18T03:41:51Z",
+            "last_commit": "2026-08-18T18:13:51Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27567
+            "stars": 27571
           }
         },
         {
@@ -1169,6 +1242,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 105937164,
                 "language": "Swift",
                 "last_commit": "2023-09-21T17:26:19Z",
                 "owner": "bazel-xcode",
@@ -1179,11 +1253,12 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-18T07:21:41Z",
+            "last_commit": "2026-08-19T07:43:15Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25725
+            "stars": 25727
           }
         },
         {
@@ -1193,11 +1268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501687,
             "language": "Java",
             "last_commit": "2026-02-16T21:29:09Z",
             "owner": "antlr",
             "repo": "antlr4",
-            "stars": 18982
+            "stars": 18983
           }
         },
         {
@@ -1207,6 +1283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58067568,
             "language": "Swift",
             "last_commit": "2026-03-08T20:47:14Z",
             "owner": "RobertGummesson",
@@ -1221,6 +1298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108030927,
             "language": "Swift",
             "last_commit": "2019-02-01T10:33:15Z",
             "owner": "fastred",
@@ -1235,6 +1313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23049318,
             "language": "Swift",
             "last_commit": "2026-08-09T11:13:15Z",
             "owner": "jpsim",
@@ -1249,6 +1328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2765020,
             "language": null,
             "last_commit": "2020-12-02T18:14:47Z",
             "owner": "xcconfigs",
@@ -1263,6 +1343,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 237002244,
             "language": "C++",
             "last_commit": "2023-02-15T06:02:06Z",
             "owner": "michaeleisel",
@@ -1277,6 +1358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331003146,
             "language": "Swift",
             "last_commit": "2024-04-26T18:56:15Z",
             "owner": "spotify",
@@ -1291,6 +1373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143408706,
             "language": "Swift",
             "last_commit": "2022-04-21T14:12:30Z",
             "owner": "agens-no",
@@ -1305,6 +1388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5389341,
             "language": "C",
             "last_commit": "2021-08-02T22:36:03Z",
             "owner": "macmade",
@@ -1316,7 +1400,7 @@
       "title": "Compiler"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1325,11 +1409,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20506004,
             "language": "Swift",
             "last_commit": "2026-05-18T15:19:28Z",
             "owner": "Quick",
             "repo": "Quick",
-            "stars": 9829
+            "stars": 9828
           }
         },
         {
@@ -1339,11 +1424,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180677,
             "language": "C",
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8111
+            "stars": 8116
           }
         },
         {
@@ -1353,11 +1439,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1834942,
             "language": "Objective-C",
             "last_commit": "2026-08-13T19:07:32Z",
             "owner": "kif-framework",
             "repo": "KIF",
-            "stars": 6245
+            "stars": 6248
           }
         },
         {
@@ -1367,11 +1454,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51094210,
             "language": "Objective-C",
             "last_commit": "2026-08-17T16:36:22Z",
             "owner": "google",
             "repo": "EarlGrey",
-            "stars": 5688
+            "stars": 5689
           }
         },
         {
@@ -1381,6 +1469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96496250,
             "language": "Swift",
             "last_commit": "2026-07-31T16:42:52Z",
             "owner": "pointfreeco",
@@ -1395,6 +1484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718309,
             "language": "Objective-C",
             "last_commit": "2023-09-05T11:52:14Z",
             "owner": "kiwi-bdd",
@@ -1409,6 +1499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9777570,
             "language": "Objective-C",
             "last_commit": "2024-06-24T15:30:35Z",
             "owner": "ios-control",
@@ -1423,6 +1514,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13236289,
             "language": "Objective-C",
             "last_commit": "2018-03-28T22:16:22Z",
             "owner": "facebookarchive",
@@ -1437,6 +1529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3116607,
             "language": "Objective-C",
             "last_commit": "2022-02-27T13:22:51Z",
             "owner": "specta",
@@ -1451,6 +1544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2238602,
             "language": "Objective-C",
             "last_commit": "2024-06-30T15:44:47Z",
             "owner": "erikdoe",
@@ -1465,6 +1559,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74459010,
             "language": "Swift",
             "last_commit": "2022-10-21T12:50:00Z",
             "owner": "zalando",
@@ -1479,6 +1574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114173355,
             "language": "Objective-C",
             "last_commit": "2025-12-02T22:19:46Z",
             "owner": "uber",
@@ -1493,11 +1589,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8180474,
             "language": "C",
             "last_commit": "2025-12-06T01:14:51Z",
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1748
+            "stars": 1749
           }
         },
         {
@@ -1507,6 +1604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6915822,
             "language": "Perl",
             "last_commit": "2022-10-14T01:39:12Z",
             "owner": "jonreid",
@@ -1518,7 +1616,7 @@
       "title": "Test"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1527,11 +1625,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95770373,
             "language": "Python",
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9321
+            "stars": 9327
           }
         },
         {
@@ -1541,11 +1640,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14735429,
             "language": "C",
             "last_commit": "2026-08-13T10:29:27Z",
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 8957
+            "stars": 8961
           }
         },
         {
@@ -1555,6 +1655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1235115,
             "language": "Objective-C",
             "last_commit": "2022-05-17T07:06:03Z",
             "owner": "nst",
@@ -1569,11 +1670,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95544373,
             "language": "Objective-C",
             "last_commit": "2022-07-09T08:24:07Z",
             "owner": "AloneMonkey",
             "repo": "MonkeyDev",
-            "stars": 6796
+            "stars": 6797
           }
         },
         {
@@ -1583,6 +1685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45699315,
             "language": "Objective-C",
             "last_commit": "2025-09-01T00:42:47Z",
             "owner": "DanTheMan827",
@@ -1597,6 +1700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11351927,
             "language": "C",
             "last_commit": "2024-08-01T06:10:59Z",
             "owner": "facebook",
@@ -1611,11 +1715,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501976,
             "language": "Makefile",
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -1625,6 +1730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15789289,
             "language": "Objective-C",
             "last_commit": "2024-11-15T10:31:48Z",
             "owner": "KJCracks",
@@ -1639,6 +1745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6846111,
             "language": "Objective-C",
             "last_commit": "2023-12-01T07:03:15Z",
             "owner": "maciekish",
@@ -1653,6 +1760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2474718,
             "language": "C",
             "last_commit": "2017-10-26T12:06:48Z",
             "owner": "stefanesser",
@@ -1667,6 +1775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6203497,
             "language": "C",
             "last_commit": "2024-07-22T07:29:07Z",
             "owner": "gdbinit",
@@ -1681,6 +1790,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 114925153,
             "language": null,
             "last_commit": "2023-01-29T07:55:38Z",
             "owner": "HikariObfuscator",
@@ -1695,6 +1805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22401106,
             "language": "C",
             "last_commit": "2025-03-29T19:45:56Z",
             "owner": "tyilo",
@@ -1709,6 +1820,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84626055,
             "language": "Vue",
             "last_commit": "2021-11-14T20:51:08Z",
             "owner": "chaitin",
@@ -1723,6 +1835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1419482,
             "language": "Objective-C",
             "last_commit": "2024-08-15T08:22:49Z",
             "owner": "ptoomey3",
@@ -1737,11 +1850,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22631446,
             "language": "Objective-C",
             "last_commit": "2019-09-06T06:35:12Z",
             "owner": "alexzielenski",
             "repo": "optool",
-            "stars": 1285
+            "stars": 1286
           }
         },
         {
@@ -1751,6 +1865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77455742,
             "language": "Shell",
             "last_commit": "2022-08-28T12:39:54Z",
             "owner": "Zuikyo",
@@ -1765,6 +1880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20761747,
             "language": "Objective-C",
             "last_commit": "2016-04-29T04:25:56Z",
             "owner": "KJCracks",
@@ -1779,6 +1895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69991464,
             "language": "C++",
             "last_commit": "2017-05-04T17:38:13Z",
             "owner": "tobefuturer",
@@ -1793,6 +1910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29898256,
             "language": "Objective-C",
             "last_commit": "2022-08-10T20:28:58Z",
             "owner": "DeVaukz",
@@ -1807,6 +1925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39162633,
             "language": "Ruby",
             "last_commit": "2026-08-14T10:54:35Z",
             "owner": "Homebrew",
@@ -1821,11 +1940,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72776966,
             "language": "C++",
             "last_commit": "2023-06-12T18:49:36Z",
             "owner": "macmade",
             "repo": "dyld_cache_extract",
-            "stars": 223
+            "stars": 224
           }
         },
         {
@@ -1835,6 +1955,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 277065598,
             "language": "C",
             "last_commit": "2020-10-01T07:55:28Z",
             "owner": "antons",
@@ -1849,24 +1970,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74415638,
             "language": "C++",
             "last_commit": "2017-04-03T03:34:04Z",
             "owner": "mxms0",
             "repo": "class-dump-swift",
             "stars": 139
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Retriever",
-          "description": "Retrieving InfoPlist without Jailbreaking on iOS Devices",
-          "children": []
         }
       ],
       "title": "Reverse engineering"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1875,11 +1991,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8579034,
             "language": null,
             "last_commit": "2023-10-20T11:20:42Z",
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4384
+            "stars": 4385
           }
         },
         {
@@ -1889,6 +2006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79385355,
             "language": "Swift",
             "last_commit": "2022-11-20T08:40:02Z",
             "owner": "rockbruno",
@@ -1903,6 +2021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19215974,
             "language": "Objective-C",
             "last_commit": "2020-01-04T10:01:52Z",
             "owner": "Polidea",
@@ -1917,6 +2036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37571812,
             "language": "Objective-C",
             "last_commit": "2021-02-13T05:15:43Z",
             "owner": "pjebs",
@@ -1931,6 +2051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150123362,
             "language": "Swift",
             "last_commit": "2022-10-08T22:05:43Z",
             "owner": "kam800",
@@ -1942,7 +2063,7 @@
       "title": "App Guard"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1951,11 +2072,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27442967,
             "language": "Ruby",
             "last_commit": "2026-08-18T00:55:28Z",
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42001
+            "stars": 42004
           }
         },
         {
@@ -1965,11 +2087,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181042062,
             "language": "Swift",
             "last_commit": "2026-08-05T07:54:18Z",
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 35046
+            "stars": 35052
           }
         },
         {
@@ -1979,11 +2102,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70198664,
             "language": "Swift",
             "last_commit": "2026-07-08T13:57:38Z",
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26837
+            "stars": 26838
           }
         },
         {
@@ -1993,6 +2117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20552964,
             "language": "Ruby",
             "last_commit": "2026-06-30T09:54:55Z",
             "owner": "realm",
@@ -2007,6 +2132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43347873,
             "language": "Ruby",
             "last_commit": "2026-07-29T03:30:00Z",
             "owner": "danger",
@@ -2021,11 +2147,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472697800,
             "language": null,
             "last_commit": "2024-06-23T16:11:30Z",
             "owner": "toddmotto",
             "repo": "public-apis",
-            "stars": 2736
+            "stars": 2738
           }
         },
         {
@@ -2035,6 +2162,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106890680,
             "language": "Objective-C",
             "last_commit": "2019-11-04T13:00:00Z",
             "owner": "waylybaye",
@@ -2049,6 +2177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272939079,
             "language": "Swift",
             "last_commit": "2023-07-14T13:14:50Z",
             "owner": "DKalachniuk",
@@ -2063,6 +2192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247447865,
             "language": "Swift",
             "last_commit": "2021-12-18T22:56:52Z",
             "owner": "robertherdzik",
@@ -2075,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:59:43.538Z",
+    "last_updated": "2026-08-19T10:00:41.279Z",
     "original_repository": "LeoMobileDeveloper/ios-developer-tools",
     "original_repository_sha": "4926efa12157c5c60910b8b86d1d2e00fcc0cb20",
     "enhanced_repository": "enhansome/enhansome-ios-developer-tools",
