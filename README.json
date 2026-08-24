@@ -5,6 +5,85 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Best-websites-a-programmer-should-visit",
+          "description": "🔗 Some useful websites for programmers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 83999700,
+            "language": null,
+            "last_commit": "2025-09-16T18:34:24Z",
+            "owner": "sdmg15",
+            "repo": "Best-websites-a-programmer-should-visit",
+            "stars": 76269
+          }
+        }
+      ],
+      "title": "Website"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Xcode",
+          "description": "you will spend most of your time with it",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iOS-DeviceSupport",
+              "description": "This repository holds the device support files for the iOS, and I will update it regularly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87520003,
+                "language": "Python",
+                "last_commit": "2023-06-09T01:22:16Z",
+                "owner": "iGhibli",
+                "repo": "iOS-DeviceSupport",
+                "stars": 8222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-xcode-extensions",
+              "description": "Awesome native Xcode extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65938895,
+                "language": "Ruby",
+                "last_commit": "2023-09-24T15:39:25Z",
+                "owner": "theswiftdev",
+                "repo": "awesome-xcode-extensions",
+                "stars": 3222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swimat",
+              "description": "Swimat is an Xcode plug-in to format your Swift code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 46051130,
+                "language": "Swift",
+                "last_commit": "2026-08-03T15:39:47Z",
+                "owner": "Jintin",
+                "repo": "Swimat",
+                "stars": 1632
+              }
+            }
+          ]
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Carthage",
           "description": "A simple, decentralized dependency manager for Cocoa",
           "children": [],
@@ -118,7 +197,7 @@
             "last_commit": "2026-08-24T06:41:53Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189343
+            "stars": 189347
           }
         },
         {
@@ -130,10 +209,10 @@
             "archived": false,
             "id": 53238813,
             "language": "Ruby",
-            "last_commit": "2026-08-24T08:08:39Z",
+            "last_commit": "2026-08-24T13:05:19Z",
             "owner": "Homebrew",
             "repo": "brew",
-            "stars": 49260
+            "stars": 49259
           }
         },
         {
@@ -145,10 +224,10 @@
             "archived": false,
             "id": 36836475,
             "language": "C",
-            "last_commit": "2026-08-24T08:28:16Z",
+            "last_commit": "2026-08-24T12:36:38Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48788
+            "stars": 48791
           }
         },
         {
@@ -163,7 +242,7 @@
             "last_commit": "2026-08-08T13:26:32Z",
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23459
+            "stars": 23457
           }
         },
         {
@@ -265,10 +344,10 @@
             "archived": false,
             "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-23T16:33:37Z",
+            "last_commit": "2026-08-24T13:00:14Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5293
+            "stars": 5294
           }
         },
         {
@@ -879,7 +958,7 @@
             "last_commit": "2026-08-21T20:30:20Z",
             "owner": "realm",
             "repo": "SwiftLint",
-            "stars": 19706
+            "stars": 19707
           }
         },
         {
@@ -1092,7 +1171,7 @@
             "archived": false,
             "id": 1380117,
             "language": "Dart",
-            "last_commit": "2026-08-24T02:36:55Z",
+            "last_commit": "2026-08-24T13:21:40Z",
             "owner": "getlantern",
             "repo": "lantern",
             "stars": 15898
@@ -1224,7 +1303,7 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-23T16:42:21Z",
+            "last_commit": "2026-08-24T10:51:47Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
             "stars": 27575
@@ -1255,10 +1334,10 @@
             "archived": false,
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-24T09:35:40Z",
+            "last_commit": "2026-08-24T13:45:50Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25753
+            "stars": 25755
           }
         },
         {
@@ -1735,7 +1814,7 @@
             "last_commit": "2024-11-15T10:31:48Z",
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3823
+            "stars": 3824
           }
         },
         {
@@ -2077,7 +2156,7 @@
             "last_commit": "2026-08-18T00:55:28Z",
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42018
+            "stars": 42020
           }
         },
         {
@@ -2092,7 +2171,7 @@
             "last_commit": "2026-08-05T07:54:18Z",
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 35097
+            "stars": 35099
           }
         },
         {
@@ -2205,7 +2284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:18:55.563Z",
+    "last_updated": "2026-08-24T14:10:02.009Z",
     "original_repository": "LeoMobileDeveloper/ios-developer-tools",
     "original_repository_id": 82806422,
     "original_repository_sha": "4926efa12157c5c60910b8b86d1d2e00fcc0cb20",
