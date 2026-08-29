@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":link: Some useful websites for programmers.",
+            "homepage": null,
             "id": 83999700,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-16T18:34:24Z",
+            "open_issues": 1002,
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76268
+            "stars": 76268,
+            "topics": [
+              "books",
+              "cs",
+              "hacktoberfest",
+              "links",
+              "programmer",
+              "sites"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -37,12 +49,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository holds the device support files for the iOS, and I will update it regularly.",
+                "homepage": null,
                 "id": 87520003,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-09T01:22:16Z",
+                "open_issues": 140,
                 "owner": "iGhibli",
                 "repo": "iOS-DeviceSupport",
-                "stars": 8223
+                "stars": 8223,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -53,12 +70,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome native Xcode extensions.",
+                "homepage": "https://theswiftdev.com/2017/10/05/awesome-native-xcode-extensions/",
                 "id": 65938895,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2023-09-24T15:39:25Z",
+                "open_issues": 1,
                 "owner": "theswiftdev",
                 "repo": "awesome-xcode-extensions",
-                "stars": 3223
+                "stars": 3223,
+                "topics": [
+                  "awesome",
+                  "extension",
+                  "plugin",
+                  "source-editor-extension",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -69,12 +99,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ARCHIVED] An Xcode formatter plug-in for Swift. Superseded by swift-format, now built into Xcode.",
+                "homepage": "https://jintin.github.io/Swimat/",
                 "id": 46051130,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:39:47Z",
+                "open_issues": 0,
                 "owner": "Jintin",
                 "repo": "Swimat",
-                "stars": 1631
+                "stars": 1631,
+                "topics": [
+                  "formatter",
+                  "swift",
+                  "swimat",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             }
@@ -93,12 +135,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, decentralized dependency manager for Cocoa",
+            "homepage": null,
             "id": 25050844,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-10T15:36:04Z",
+            "open_issues": 216,
             "owner": "Carthage",
             "repo": "Carthage",
-            "stars": 15167
+            "stars": 15167,
+            "topics": [
+              "carthage",
+              "cocoa",
+              "package-manager",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -109,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.",
+            "homepage": null,
             "id": 173737635,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-10-22T21:01:45Z",
+            "open_issues": 0,
             "owner": "JamitLabs",
             "repo": "Accio",
-            "stars": 669
+            "stars": 669,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -130,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CocoaPods plugin which allows you to generate a static library from a podspec.",
+                "homepage": null,
                 "id": 17838583,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-16T08:46:58Z",
+                "open_issues": 116,
                 "owner": "CocoaPods",
                 "repo": "cocoapods-packager",
-                "stars": 1151
+                "stars": 1151,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -146,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Move all dynamic frameworks symbols into the main executable.",
+                "homepage": null,
                 "id": 64607144,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-01-18T09:02:59Z",
+                "open_issues": 12,
                 "owner": "UnsafePointer",
                 "repo": "cocoapods-amimono",
-                "stars": 441
+                "stars": 441,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -162,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shows a project's CocoaPods dependency graph",
+                "homepage": null,
                 "id": 18778264,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-02-13T03:30:19Z",
+                "open_issues": 7,
                 "owner": "segiddins",
                 "repo": "cocoapods-dependencies",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -178,12 +250,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cocoapods plugin enables static framework for all pods",
+                "homepage": null,
                 "id": 116107207,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-07-22T01:48:18Z",
+                "open_issues": 6,
                 "owner": "leavez",
                 "repo": "cocoapods-static-swift-framework",
-                "stars": 253
+                "stars": 253,
+                "topics": [
+                  "cocoapods-plugin",
+                  "statically-linking",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             }
@@ -202,12 +283,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+            "homepage": "https://ohmyz.sh",
             "id": 291137,
             "language": "Shell",
-            "last_commit": "2026-08-25T14:40:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:43:45Z",
+            "open_issues": 574,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189425
+            "stars": 189427,
+            "topics": [
+              "cli",
+              "cli-app",
+              "oh-my-zsh",
+              "oh-my-zsh-plugin",
+              "oh-my-zsh-theme",
+              "ohmyzsh",
+              "plugin-framework",
+              "plugins",
+              "productivity",
+              "shell",
+              "terminal",
+              "theme",
+              "themes",
+              "zsh",
+              "zsh-configuration"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -218,12 +320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍺 The Package Manager for Everywhere",
+            "homepage": "https://brew.sh",
             "id": 53238813,
             "language": "Ruby",
-            "last_commit": "2026-08-28T18:18:28Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T02:10:47Z",
+            "open_issues": 10,
             "owner": "Homebrew",
             "repo": "brew",
-            "stars": 49310
+            "stars": 49312,
+            "topics": [
+              "brew",
+              "homebrew",
+              "macos",
+              "package-manager",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -234,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tmux source code",
+            "homepage": null,
             "id": 36836475,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-08-28T10:46:45Z",
+            "open_issues": 33,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48881
+            "stars": 48889,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -250,12 +368,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+            "homepage": null,
             "id": 42029482,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-08T13:26:32Z",
+            "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23474
+            "stars": 23474,
+            "topics": [
+              "cloc",
+              "count-lines",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -266,12 +393,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cd command that learns - easily navigate directories from the command line",
+            "homepage": null,
             "id": 107258,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-27T16:03:23Z",
+            "open_issues": 231,
             "owner": "wting",
             "repo": "autojump",
-            "stars": 16963
+            "stars": 16963,
+            "topics": [
+              "autojump",
+              "command-line-tool",
+              "filesystem",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -282,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool and Xcode Extension for formatting Swift code",
+            "homepage": null,
             "id": 66302557,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:40:28Z",
+            "open_issues": 304,
             "owner": "nicklockwood",
             "repo": "SwiftFormat",
-            "stars": 8921
+            "stars": 8922,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -298,12 +440,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift command line tool for generating your Xcode project",
+            "homepage": null,
             "id": 97716052,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-16T06:42:48Z",
+            "open_issues": 402,
             "owner": "yonaskolb",
             "repo": "XcodeGen",
-            "stars": 8742
+            "stars": 8742,
+            "topics": [
+              "ci",
+              "cli",
+              "generator",
+              "specification",
+              "swift",
+              "xcode",
+              "xcodeproj",
+              "xcodeproject",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -314,12 +471,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soulful docs for Swift & Objective-C",
+            "homepage": "https://realm.io",
             "id": 20552964,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-30T09:54:55Z",
+            "open_issues": 75,
             "owner": "realm",
             "repo": "jazzy",
-            "stars": 7379
+            "stars": 7379,
+            "topics": [
+              "ruby",
+              "sourcekit",
+              "sourcekitten",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -330,12 +498,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.",
+            "homepage": null,
             "id": 9639981,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-11T08:21:02Z",
+            "open_issues": 9,
             "owner": "facebookarchive",
             "repo": "xctool",
-            "stars": 6864
+            "stars": 6864,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -346,12 +519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool that reorganizes your Xcode project folder to match your Xcode groups",
+            "homepage": null,
             "id": 19290579,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-07-18T23:40:39Z",
+            "open_issues": 56,
             "owner": "venmo",
             "repo": "synx",
-            "stars": 6042
+            "stars": 6042,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -362,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "idb is a flexible command line interface for automating iOS simulators and devices",
+            "homepage": "https://fbidb.io/",
             "id": 41870517,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:19:51Z",
+            "open_issues": 182,
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5301
+            "stars": 5302,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -378,12 +561,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible and fast xcodebuild formatter",
+            "homepage": null,
             "id": 15035229,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-26T19:42:24Z",
+            "open_issues": 120,
             "owner": "xcpretty",
             "repo": "xcpretty",
-            "stars": 4036
+            "stars": 4036,
+            "topics": [
+              "ci",
+              "continuous-integration",
+              "ios"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -394,12 +586,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Straightforward, type-safe argument parsing for Swift",
+            "homepage": "https://swiftpackageindex.com/apple/swift-argument-parser/documentation",
             "id": 241928033,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:53:15Z",
+            "open_issues": 147,
             "owner": "apple",
             "repo": "swift-argument-parser",
-            "stars": 3759
+            "stars": 3759,
+            "topics": [
+              "cli",
+              "command-line",
+              "flag",
+              "option"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -410,12 +612,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Xcode-compatible build tool.",
+            "homepage": null,
             "id": 43019030,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-09T06:28:30Z",
+            "open_issues": 63,
             "owner": "facebookarchive",
             "repo": "xcbuild",
-            "stars": 2008
+            "stars": 2008,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -426,12 +633,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sane PBXProj files",
+            "homepage": null,
             "id": 54463011,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T09:28:00Z",
+            "open_issues": 4,
             "owner": "Serchinastico",
             "repo": "Kin",
-            "stars": 1063
+            "stars": 1063,
+            "topics": [
+              "antlr",
+              "ios",
+              "pbxproj",
+              "tool",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -442,12 +660,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Swift code formatter using SwiftSyntax.",
+            "homepage": null,
             "id": 161252402,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-16T13:58:37Z",
+            "open_issues": 7,
             "owner": "inamiy",
             "repo": "SwiftRewriter",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "code-formatter",
+              "swift",
+              "swiftsyntax"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -458,12 +685,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for linting storyboard and xib files",
+            "homepage": null,
             "id": 106344941,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-08T18:17:48Z",
+            "open_issues": 4,
             "owner": "lyft",
             "repo": "xiblint",
-            "stars": 516
+            "stars": 516,
+            "topics": [
+              "lyft"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -474,12 +708,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool for manipulating Xcode project files",
+            "homepage": null,
             "id": 1355632,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2024-05-29T23:33:00Z",
+            "open_issues": 3,
             "owner": "0xced",
             "repo": "xcproj",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "xcode",
+              "xcodeproj"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -496,12 +738,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款面向泛前端产品研发全生命周期的效率平台。",
+            "homepage": null,
             "id": 144705602,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-12T11:43:04Z",
+            "open_issues": 276,
             "owner": "didi",
             "repo": "DoKit",
-            "stars": 20404
+            "stars": 20404,
+            "topics": [
+              "android",
+              "ios",
+              "miniapp",
+              "mockgps",
+              "monitoring",
+              "performance",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -512,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An in-app debugging and exploration tool for iOS",
+            "homepage": null,
             "id": 20277829,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-11T20:34:01Z",
+            "open_issues": 49,
             "owner": "FLEXTool",
             "repo": "FLEX",
-            "stars": 14633
+            "stars": 14633,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -528,12 +788,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",
+            "homepage": "https://cocoalumberjack.github.io",
             "id": 1549138,
             "language": "Objective-C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T06:31:06Z",
+            "open_issues": 6,
             "owner": "CocoaLumberjack",
             "repo": "CocoaLumberjack",
-            "stars": 13325
+            "stars": 13325,
+            "topics": [
+              "carthage",
+              "cocoalumberjack",
+              "cocoapods",
+              "ios",
+              "log",
+              "logger",
+              "logging",
+              "lumberjack",
+              "macos",
+              "objective-c",
+              "spm",
+              "swift",
+              "swift-package-manager",
+              "tvos",
+              "visionos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -544,12 +826,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matrix is a plugin style, non-invasive APM system developed by WeChat.",
+            "homepage": null,
             "id": 161292091,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-23T10:46:08Z",
+            "open_issues": 407,
             "owner": "Tencent",
             "repo": "matrix",
-            "stars": 12036
+            "stars": 12036,
+            "topics": [
+              "android",
+              "apm-client",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -560,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chisel is a collection of LLDB commands to assist debugging iOS apps.",
+            "homepage": null,
             "id": 17065530,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-15T21:46:38Z",
+            "open_issues": 50,
             "owner": "facebook",
             "repo": "chisel",
-            "stars": 9179
+            "stars": 9179,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -576,12 +872,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。",
+            "homepage": null,
             "id": 49316177,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-01T08:25:27Z",
+            "open_issues": 106,
             "owner": "wuchangming",
             "repo": "spy-debugger",
-            "stars": 7618
+            "stars": 7618,
+            "topics": [
+              "debug",
+              "spy-debugger",
+              "wechat",
+              "weinre"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -592,12 +898,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runtime Code Injection for Objective-C & Swift",
+            "homepage": null,
             "id": 4471940,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-08-04T00:53:23Z",
+            "open_issues": 76,
             "owner": "johnno1962",
             "repo": "injectionforxcode",
-            "stars": 6537
+            "stars": 6537,
+            "topics": [
+              "xcode-plugin",
+              "xcodebuild"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -608,12 +922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OS X and iOS application and framework to play with the Apple Push Notification service (APNs)",
+            "homepage": null,
             "id": 5741345,
             "language": "Objective-C",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-03-30T07:00:58Z",
+            "open_issues": 28,
             "owner": "noodlewerk",
             "repo": "NWPusher",
-            "stars": 6302
+            "stars": 6302,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -624,12 +943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).",
+            "homepage": null,
             "id": 8165161,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-07-02T07:34:34Z",
+            "open_issues": 19,
             "owner": "google",
             "repo": "ios-webkit-debug-proxy",
-            "stars": 6201
+            "stars": 6201,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -640,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remote network and data debugging for your native iOS app using Chrome Developer Tools",
+            "homepage": null,
             "id": 5499847,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-18T22:52:48Z",
+            "open_issues": 46,
             "owner": "square",
             "repo": "PonyDebugger",
-            "stars": 5853
+            "stars": 5853,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -656,12 +985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The debug application for Apple Push Notification Service (APNs).",
+            "homepage": null,
             "id": 2567806,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-09-04T18:39:25Z",
+            "open_issues": 19,
             "owner": "KnuffApp",
             "repo": "Knuff",
-            "stars": 5220
+            "stars": 5220,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -672,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ultimate iOS Crash Reporter",
+            "homepage": null,
             "id": 4691393,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:37:09Z",
+            "open_issues": 11,
             "owner": "kstenerud",
             "repo": "KSCrash",
-            "stars": 4489
+            "stars": 4489,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -688,12 +1027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes",
+            "homepage": null,
             "id": 83022668,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-09-22T16:14:18Z",
+            "open_issues": 10,
             "owner": "zixun",
             "repo": "GodEye",
-            "stars": 3884
+            "stars": 3884,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -704,12 +1048,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dSYM analyze",
+            "homepage": null,
             "id": 21232952,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-10-25T11:53:45Z",
+            "open_issues": 1,
             "owner": "answer-huang",
             "repo": "dSYMTools",
-            "stars": 3472
+            "stars": 3472,
+            "topics": [
+              "dsym",
+              "xcarchive"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -720,12 +1072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free macOS app for iOS view debugging.",
+            "homepage": "https://lookin.work",
             "id": 198434721,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2024-07-17T09:04:57Z",
+            "open_issues": 39,
             "owner": "QMUI",
             "repo": "LookinServer",
-            "stars": 2859
+            "stars": 2859,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -736,12 +1093,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+            "homepage": null,
             "id": 178764877,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-01-02T00:22:10Z",
+            "open_issues": 2,
             "owner": "indragiek",
             "repo": "InAppViewDebugger",
-            "stars": 1920
+            "stars": 1920,
+            "topics": [
+              "debugger",
+              "debugging",
+              "ios",
+              "ipad",
+              "iphone",
+              "swift",
+              "ui",
+              "uiview",
+              "view",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -752,12 +1125,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to parse Xcode and xcodebuild logs stored in the xcactivitylog format",
+            "homepage": null,
             "id": 188110576,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T18:07:50Z",
+            "open_issues": 37,
             "owner": "MobileNativeFoundation",
             "repo": "XCLogParser",
-            "stars": 1851
+            "stars": 1851,
+            "topics": [
+              "swift",
+              "swift-package-manager",
+              "xcactivitylog",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -768,12 +1151,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)",
+            "homepage": null,
             "id": 173854041,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2023-11-17T08:43:58Z",
+            "open_issues": 8,
             "owner": "meitu",
             "repo": "MTHawkeye",
-            "stars": 1505
+            "stars": 1505,
+            "topics": [
+              "anr",
+              "apm",
+              "assistant",
+              "autotesting",
+              "debugging",
+              "ios",
+              "memory-leak-detection",
+              "monitor",
+              "network",
+              "network-monitor",
+              "oom",
+              "opengl-debugger",
+              "performance-analysis",
+              "performance-monitoring",
+              "profiling",
+              "time-profile",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -784,12 +1190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reverse engineering tool to restore stripped symbol table for iOS app.",
+            "homepage": null,
             "id": 66298021,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2020-08-21T13:45:49Z",
+            "open_issues": 18,
             "owner": "tobefuturer",
             "repo": "restore-symbol",
-            "stars": 1337
+            "stars": 1337,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -800,12 +1211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-App debug console for your UIWebView & WKWebView",
+            "homepage": null,
             "id": 30746599,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-08T12:20:38Z",
+            "open_issues": 7,
             "owner": "Naituw",
             "repo": "WBWebViewConsole",
-            "stars": 1325
+            "stars": 1325,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -816,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of easy to use debugging tools for iOS developers & QA engineers.",
+            "homepage": null,
             "id": 74209590,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2024-05-31T07:28:18Z",
+            "open_issues": 16,
             "owner": "dbukowski",
             "repo": "DBDebugToolkit",
-            "stars": 1280
+            "stars": 1280,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -832,12 +1253,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.",
+            "homepage": null,
             "id": 114210359,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-10-21T01:21:56Z",
+            "open_issues": 3,
             "owner": "wigl",
             "repo": "iSimulator",
-            "stars": 1171
+            "stars": 1171,
+            "topics": [
+              "app",
+              "simctl",
+              "simulator",
+              "simulator-controls",
+              "xcode",
+              "xcrun"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -848,12 +1281,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍎Objective C Method Tracing Call Chart",
+            "homepage": "https://everettjf.github.io/AppleTrace/",
             "id": 102832172,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-22T19:54:00Z",
+            "open_issues": 1,
             "owner": "everettjf",
             "repo": "appletrace",
-            "stars": 831
+            "stars": 831,
+            "topics": [
+              "analysis",
+              "appletrace",
+              "catapult",
+              "hookzz",
+              "ios",
+              "macos",
+              "os-trace",
+              "performance",
+              "systrace"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -864,12 +1312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to debug layouts directly on iOS devices: inspect layers in 3D and debug each visible view attributes",
+            "homepage": null,
             "id": 164134336,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-02-06T19:16:20Z",
+            "open_issues": 0,
             "owner": "isavynskyi",
             "repo": "LayoutInspector",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -885,12 +1338,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔬 A fast, interactive web-based viewer for performance profiles.",
+                "homepage": "https://www.speedscope.app",
                 "id": 111653897,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-15T15:39:25Z",
+                "open_issues": 158,
                 "owner": "jlfwong",
                 "repo": "speedscope",
-                "stars": 6733
+                "stars": 6734,
+                "topics": [
+                  "flamegraph",
+                  "flamegraphs",
+                  "performance-profiling",
+                  "performance-tools",
+                  "performance-visualization",
+                  "profile",
+                  "speedscope",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -901,12 +1368,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A framework and instrument for timing Objective C +load messages.",
+                "homepage": null,
                 "id": 166688765,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-20T17:32:50Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "gtm_load_timer",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "google",
+                  "instruments",
+                  "load",
+                  "objective-c",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             }
@@ -921,12 +1399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS library to help detecting retain cycles in runtime.",
+                "homepage": null,
                 "id": 55717457,
                 "language": "Objective-C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T23:28:07Z",
+                "open_issues": 43,
                 "owner": "facebook",
                 "repo": "FBRetainCycleDetector",
-                "stars": 4234
+                "stars": 4234,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -937,12 +1420,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "iOS tool that helps with profiling iOS Memory usage.",
+                "homepage": null,
                 "id": 55717949,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-25T15:58:50Z",
+                "open_issues": 20,
                 "owner": "facebookarchive",
                 "repo": "FBMemoryProfiler",
-                "stars": 3383
+                "stars": 3383,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -953,12 +1441,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find retain cycles / memory leaks sooner.",
+                "homepage": "http://merowing.info",
                 "id": 98870159,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-03-05T07:16:35Z",
+                "open_issues": 10,
                 "owner": "krzysztofzablocki",
                 "repo": "LifetimeTracker",
-                "stars": 3305
+                "stars": 3305,
+                "topics": [
+                  "ios",
+                  "memory-leaks",
+                  "retain-cycles",
+                  "swift",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -969,12 +1468,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.",
+                "homepage": null,
                 "id": 115068418,
                 "language": "Objective-C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-21T02:31:59Z",
+                "open_issues": 38,
                 "owner": "Tencent",
                 "repo": "OOMDetector",
-                "stars": 2347
+                "stars": 2347,
+                "topics": [
+                  "ios",
+                  "leak",
+                  "oom"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             },
@@ -985,12 +1493,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "iOS library that helps tracking all allocated Objective-C objects",
+                "homepage": null,
                 "id": 55717843,
                 "language": "Objective-C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-13T17:38:54Z",
+                "open_issues": 4,
                 "owner": "facebookarchive",
                 "repo": "FBAllocationTracker",
-                "stars": 1089
+                "stars": 1089,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             }
@@ -1012,12 +1525,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to enforce Swift style and conventions.",
+            "homepage": "https://realm.github.io/SwiftLint",
             "id": 35732214,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:05:17Z",
+            "open_issues": 497,
             "owner": "realm",
             "repo": "SwiftLint",
-            "stars": 19714
+            "stars": 19714,
+            "topics": [
+              "code-quality",
+              "hacktoberfest",
+              "linter",
+              "linting",
+              "static-analysis",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1028,12 +1553,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool to identify unused code in Swift projects.",
+            "homepage": null,
             "id": 169972846,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-12T09:22:11Z",
+            "open_issues": 0,
             "owner": "peripheryapp",
             "repo": "periphery",
-            "stars": 6182
+            "stars": 6182,
+            "topics": [
+              "apple",
+              "ios",
+              "macos",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1044,12 +1580,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool for cleaning unused resources in Xcode.",
+            "homepage": null,
             "id": 84144167,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-09T06:43:43Z",
+            "open_issues": 24,
             "owner": "onevcat",
             "repo": "FengNiao",
-            "stars": 3574
+            "stars": 3574,
+            "topics": [
+              "cleanup",
+              "command-line-tool",
+              "images",
+              "resources",
+              "slim",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1060,12 +1609,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An app that lets you open .car files and browse/extract their images.",
+            "homepage": null,
             "id": 17406078,
             "language": "Swift",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-27T12:33:25Z",
+            "open_issues": 13,
             "owner": "insidegui",
             "repo": "AssetCatalogTinkerer",
-            "stars": 2875
+            "stars": 2875,
+            "topics": [
+              "asset-catalog",
+              "developer-tools",
+              "ios",
+              "macos",
+              "objective-c",
+              "quicklook",
+              "quicklook-plugin",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1076,12 +1639,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 📝 Read, update and write your Xcode projects",
+            "homepage": null,
             "id": 93763457,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-26T11:38:58Z",
+            "open_issues": 20,
             "owner": "tuist",
             "repo": "XcodeProj",
-            "stars": 2219
+            "stars": 2219,
+            "topics": [
+              "ios",
+              "macos",
+              "objective-c",
+              "swift",
+              "swift-5",
+              "xcode",
+              "xcodeproj"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1092,12 +1668,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find unused Objective-C imports.",
+            "homepage": null,
             "id": 16147882,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-12T14:59:55Z",
+            "open_issues": 10,
             "owner": "dblock",
             "repo": "fui",
-            "stars": 2045
+            "stars": 2045,
+            "topics": [
+              "imports",
+              "objective-c"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1108,12 +1692,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled. ",
+            "homepage": null,
             "id": 11394510,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-28T01:36:32Z",
+            "open_issues": 18,
             "owner": "PaulTaykalo",
             "repo": "objc-dependency-visualizer",
-            "stars": 1865
+            "stars": 1865,
+            "topics": [
+              "d3js",
+              "dependency",
+              "dependency-graph",
+              "dependency-tree",
+              "graph",
+              "javascript",
+              "objective-c",
+              "structure",
+              "swift",
+              "swift-dependencies-visualizer"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1124,12 +1724,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Export images from OS X / iOS .car CoreUI archives",
+            "homepage": null,
             "id": 12744627,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2018-11-02T20:46:57Z",
+            "open_issues": 19,
             "owner": "steventroughtonsmith",
             "repo": "cartool",
-            "stars": 1801
+            "stars": 1801,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1140,12 +1745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodePecker is a tool to detect unused Swift code.",
+            "homepage": null,
             "id": 225575217,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-04-08T07:21:31Z",
+            "open_issues": 12,
             "owner": "woshiccm",
             "repo": "Pecker",
-            "stars": 1459
+            "stars": 1459,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1156,12 +1766,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph the import dependancies in an Objective-C project",
+            "homepage": null,
             "id": 1286974,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-19T14:42:16Z",
+            "open_issues": 5,
             "owner": "nst",
             "repo": "objc_dep",
-            "stars": 1347
+            "stars": 1347,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1172,12 +1787,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Find common xib and storyboard-related problems without running your app or writing unit tests.",
+            "homepage": "http://holko.pl",
             "id": 77301681,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-06-14T12:10:48Z",
+            "open_issues": 15,
             "owner": "fastred",
             "repo": "IBAnalyzer",
-            "stars": 942
+            "stars": 942,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1188,12 +1808,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Quick Python script over otool to help spotting potentially unused methods in Objective-C Mach-O executable files",
+            "homepage": null,
             "id": 541932,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-12-28T03:22:02Z",
+            "open_issues": 2,
             "owner": "nst",
             "repo": "objc_cover",
-            "stars": 452
+            "stars": 452,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1204,12 +1829,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积 Scanning project does not use images in tool, delete without reference images to reduce the packaging volume",
+            "homepage": "http://www.wuhaichao.com",
             "id": 62360534,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-02-06T05:25:25Z",
+            "open_issues": 3,
             "owner": "netyouli",
             "repo": "WHC_ScanUnreferenceImageTool",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "mac",
+              "scan",
+              "unused",
+              "whc"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1220,12 +1855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS APP分析无用代码(A source-code level/Clang Approach)",
+            "homepage": null,
             "id": 72513097,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-08-22T03:36:26Z",
+            "open_issues": 1,
             "owner": "kangwang1988",
             "repo": "XcodeZombieCode",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -1242,12 +1882,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+            "homepage": null,
             "id": 1380117,
             "language": "Dart",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T20:09:58Z",
+            "open_issues": 40,
             "owner": "getlantern",
             "repo": "lantern",
-            "stars": 15918
+            "stars": 15916,
+            "topics": [
+              "accelerator",
+              "censorship",
+              "circumvention",
+              "gfw",
+              "lantern",
+              "router",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1258,12 +1911,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",
+            "homepage": "http://software.es.net/iperf/",
             "id": 17183871,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T19:21:20Z",
+            "open_issues": 233,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8721
+            "stars": 8721,
+            "topics": [
+              "iperf3"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1274,12 +1934,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server)",
+            "homepage": null,
             "id": 7369087,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-05T03:56:25Z",
+            "open_issues": 42,
             "owner": "swisspol",
             "repo": "GCDWebServer",
-            "stars": 6625
+            "stars": 6625,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1290,12 +1955,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a little native network debugging tool for iOS",
+            "homepage": null,
             "id": 91084289,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-20T10:54:06Z",
+            "open_issues": 37,
             "owner": "yagiz",
             "repo": "Bagel",
-            "stars": 4422
+            "stars": 4422,
+            "topics": [
+              "alamofire",
+              "debug",
+              "ios",
+              "network",
+              "network-traffic",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1306,12 +1983,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, one line setup, iOS / OSX network debugging library! 🦊",
+            "homepage": null,
             "id": 46502055,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-03-21T14:08:46Z",
+            "open_issues": 47,
             "owner": "kasketis",
             "repo": "netfox",
-            "stars": 3758
+            "stars": 3758,
+            "topics": [
+              "afnetworking",
+              "alamofire",
+              "carthage",
+              "certificate-pinning",
+              "charles",
+              "cocoapods",
+              "debugging",
+              "http",
+              "http-monitor",
+              "ios",
+              "network-debug",
+              "network-monitoring",
+              "networking",
+              "request",
+              "response",
+              "swift",
+              "urlprotocol",
+              "urlrequest",
+              "urlsession",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1322,12 +2025,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS network debugging, like a wizard 🧙‍♂️",
+            "homepage": null,
             "id": 128782492,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-23T17:17:13Z",
+            "open_issues": 12,
             "owner": "pmusolino",
             "repo": "Wormholy",
-            "stars": 2613
+            "stars": 2613,
+            "topics": [
+              "alamofire",
+              "charles",
+              "debugger",
+              "https",
+              "ios",
+              "logger",
+              "logging",
+              "network",
+              "nsurlsession"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -1344,12 +2062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+            "homepage": "https://www.zetetic.net/sqlcipher/",
             "id": 38617,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-18T13:58:59Z",
+            "open_issues": 18,
             "owner": "sqlcipher",
             "repo": "sqlcipher",
-            "stars": 7256
+            "stars": 7256,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1360,12 +2083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use SimSim to explore iOS application folders in Terminal or Finder. Fast, stable, free alternative to SimPholders.",
+            "homepage": null,
             "id": 56596333,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-01-23T17:43:05Z",
+            "open_issues": 6,
             "owner": "dsmelov",
             "repo": "simsim",
-            "stars": 1476
+            "stars": 1476,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -1382,12 +2110,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
+            "homepage": null,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-28T20:47:16Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:38:23Z",
+            "open_issues": 2476,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27580
+            "stars": 27581,
+            "topics": [
+              "emscripten",
+              "hacktoberfest",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1403,24 +2141,46 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy way to integrate CocoaPods into Bazel",
+                "homepage": null,
                 "id": 105937164,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-21T17:26:19Z",
+                "open_issues": 79,
                 "owner": "bazel-xcode",
                 "repo": "PodToBUILD",
-                "stars": 331
+                "stars": 331,
+                "topics": [
+                  "bazel",
+                  "cocoapods"
+                ]
               },
               "first_seen": "2026-08-28T20:58:21.032Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "a fast, scalable, multi-language and extensible build system",
+            "homepage": "https://bazel.build",
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-28T20:18:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:17:12Z",
+            "open_issues": 1911,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25773
+            "stars": 25773,
+            "topics": [
+              "bazel",
+              "build",
+              "build-system",
+              "correct",
+              "fast",
+              "multi-language",
+              "scalable",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1431,12 +2191,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+            "homepage": "http://antlr.org",
             "id": 501687,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-16T21:29:09Z",
+            "open_issues": 1089,
             "owner": "antlr",
             "repo": "antlr4",
-            "stars": 18987
+            "stars": 18987,
+            "topics": [
+              "antlr",
+              "antlr4",
+              "cpp",
+              "csharp",
+              "dart",
+              "golang",
+              "grammar",
+              "java",
+              "javascript",
+              "language-recognition",
+              "parse",
+              "parser-generator",
+              "parsing",
+              "php",
+              "python",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1447,12 +2229,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Time Analyzer for Swift",
+            "homepage": null,
             "id": 58067568,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-08T20:47:14Z",
+            "open_issues": 19,
             "owner": "RobertGummesson",
             "repo": "BuildTimeAnalyzer-for-Xcode",
-            "stars": 4351
+            "stars": 4351,
+            "topics": [
+              "analyzer",
+              "build",
+              "compile-time",
+              "swift",
+              "time",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1463,12 +2257,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of advice on optimizing compile times of Swift projects.",
+            "homepage": null,
             "id": 108030927,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-02-01T10:33:15Z",
+            "open_issues": 5,
             "owner": "fastred",
             "repo": "Optimizing-Swift-Build-Times",
-            "stars": 3585
+            "stars": 3585,
+            "topics": [
+              "build-time",
+              "compile",
+              "compile-time",
+              "swift",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1479,12 +2284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adorable little framework and command line tool for interacting with SourceKit.",
+            "homepage": null,
             "id": 23049318,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-09T11:13:15Z",
+            "open_issues": 100,
             "owner": "jpsim",
             "repo": "SourceKitten",
-            "stars": 2426
+            "stars": 2426,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1495,12 +2305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common Xcode configuration files/settings.",
+            "homepage": null,
             "id": 2765020,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-02T18:14:47Z",
+            "open_issues": 0,
             "owner": "xcconfigs",
             "repo": "xcconfigs",
-            "stars": 1194
+            "stars": 1194,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1511,12 +2326,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A faster version of Apple's linker",
+            "homepage": null,
             "id": 237002244,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-02-15T06:02:06Z",
+            "open_issues": 0,
             "owner": "michaeleisel",
             "repo": "zld",
-            "stars": 1192
+            "stars": 1192,
+            "topics": [
+              "ios",
+              "linker",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1527,12 +2351,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XCMetrics is the easiest way to collect Xcode build metrics and improve developer productivity.",
+            "homepage": "https://xcmetrics.io",
             "id": 331003146,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-26T18:56:15Z",
+            "open_issues": 19,
             "owner": "spotify",
             "repo": "XCMetrics",
-            "stars": 1162
+            "stars": 1162,
+            "topics": [
+              "spm",
+              "swift",
+              "xcactivitylog",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1543,12 +2377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human readable time diffs on lines of output when running e.g. build commands like fastlane",
+            "homepage": null,
             "id": 143408706,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-04-21T14:12:30Z",
+            "open_issues": 2,
             "owner": "agens-no",
             "repo": "swiff",
-            "stars": 795
+            "stars": 795,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1559,12 +2398,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.",
+            "homepage": null,
             "id": 5389341,
             "language": "C",
+            "license": null,
             "last_commit": "2021-08-02T22:36:03Z",
+            "open_issues": 3,
             "owner": "macmade",
             "repo": "ClangKit",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "clang",
+              "code",
+              "diagnostics",
+              "llvm",
+              "objective-c",
+              "parsing",
+              "source",
+              "static-analysis",
+              "syntax-highlighting",
+              "tokenization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -1581,12 +2438,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Swift (and Objective-C) testing framework.",
+            "homepage": "http://quick.github.io/Quick/",
             "id": 20506004,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-18T15:19:28Z",
+            "open_issues": 49,
             "owner": "Quick",
             "repo": "Quick",
-            "stars": 9827
+            "stars": 9827,
+            "topics": [
+              "bdd",
+              "carthage",
+              "cocoapods",
+              "ios",
+              "objective-c",
+              "swift",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1597,12 +2467,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform protocol library to communicate with iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180677,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2026-06-10T07:52:18Z",
+            "open_issues": 848,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8136
+            "stars": 8136,
+            "topics": [
+              "c",
+              "ios",
+              "library",
+              "lockdownd",
+              "protocol"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1613,12 +2494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep It Functional - An iOS Functional Testing Framework",
+            "homepage": null,
             "id": 1834942,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T19:07:32Z",
+            "open_issues": 56,
             "owner": "kif-framework",
             "repo": "KIF",
-            "stars": 6248
+            "stars": 6248,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1629,12 +2515,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tea: iOS UI Automation Test Framework",
+            "homepage": "http://google.github.io/EarlGrey/",
             "id": 51094210,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:08:11Z",
+            "open_issues": 258,
             "owner": "google",
             "repo": "EarlGrey",
-            "stars": 5691
+            "stars": 5691,
+            "topics": [
+              "automation",
+              "earlgrey",
+              "ios",
+              "ios-automation",
+              "ios-development",
+              "ios-device",
+              "ios-test",
+              "test-framework",
+              "testing-tools",
+              "ui-automated-tests"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1645,12 +2547,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📸 Delightful Swift snapshot testing.",
+            "homepage": "https://www.pointfree.co/episodes/ep41-a-tour-of-snapshot-testing",
             "id": 96496250,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:04:04Z",
+            "open_issues": 220,
             "owner": "pointfreeco",
             "repo": "swift-snapshot-testing",
-            "stars": 4324
+            "stars": 4324,
+            "topics": [
+              "screenshot-testing",
+              "snapshot-testing",
+              "swift",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1661,12 +2573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple BDD for iOS",
+            "homepage": null,
             "id": 718309,
             "language": "Objective-C",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-09-05T11:52:14Z",
+            "open_issues": 89,
             "owner": "kiwi-bdd",
             "repo": "Kiwi",
-            "stars": 4112
+            "stars": 4112,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1677,12 +2594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install and debug iPhone apps from the command line, without using Xcode",
+            "homepage": null,
             "id": 9777570,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-24T15:30:35Z",
+            "open_issues": 45,
             "owner": "ios-control",
             "repo": "ios-deploy",
-            "stars": 3637
+            "stars": 3637,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1693,12 +2615,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Snapshot view unit tests for iOS",
+            "homepage": null,
             "id": 13236289,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2018-03-28T22:16:22Z",
+            "open_issues": 45,
             "owner": "facebookarchive",
             "repo": "ios-snapshot-test-case",
-            "stars": 2648
+            "stars": 2648,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1709,12 +2636,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light-weight TDD / BDD framework for Objective-C & Cocoa",
+            "homepage": null,
             "id": 3116607,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-02-27T13:22:51Z",
+            "open_issues": 18,
             "owner": "specta",
             "repo": "specta",
-            "stars": 2313
+            "stars": 2313,
+            "topics": [
+              "bdd-framework",
+              "objective-c",
+              "testing",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1725,12 +2662,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mock objects for Objective-C",
+            "homepage": "http://ocmock.org",
             "id": 2238602,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-30T15:44:47Z",
+            "open_issues": 50,
             "owner": "erikdoe",
             "repo": "ocmock",
-            "stars": 2171
+            "stars": 2171,
+            "topics": [
+              "mock-objects",
+              "objective-c",
+              "ocmock"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1741,12 +2687,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A framework for doing randomised UI testing of iOS apps",
+            "homepage": null,
             "id": 74459010,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-21T12:50:00Z",
+            "open_issues": 27,
             "owner": "zalando",
             "repo": "SwiftMonkey",
-            "stars": 1935
+            "stars": 1935,
+            "topics": [
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1757,12 +2710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snapshot view unit tests for iOS",
+            "homepage": null,
             "id": 114173355,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2025-12-02T22:19:46Z",
+            "open_issues": 42,
             "owner": "uber",
             "repo": "ios-snapshot-test-case",
-            "stars": 1862
+            "stars": 1862,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1773,12 +2731,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A socket daemon to multiplex connections from and to iOS devices",
+            "homepage": "https://libimobiledevice.org",
             "id": 8180474,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-12-06T01:14:51Z",
+            "open_issues": 117,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
-            "stars": 1754
+            "stars": 1754,
+            "topics": [
+              "c",
+              "daemon",
+              "ios",
+              "libimobiledevice",
+              "library",
+              "usb",
+              "usbmuxd"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1789,12 +2760,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code coverage for Xcode projects (Objective-C only)",
+            "homepage": null,
             "id": 6915822,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2022-10-14T01:39:12Z",
+            "open_issues": 1,
             "owner": "jonreid",
             "repo": "XcodeCoverage",
-            "stars": 854
+            "stars": 854,
+            "topics": [
+              "coverage",
+              "objective-c",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -1811,12 +2791,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📱 objection - runtime mobile exploration",
+            "homepage": null,
             "id": 95770373,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-23T13:40:22Z",
+            "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9350
+            "stars": 9350,
+            "topics": [
+              "android",
+              "framework",
+              "frida",
+              "instrumentation",
+              "ios",
+              "mobile",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1827,12 +2821,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+            "homepage": "http://www.capstone-engine.org",
             "id": 14735429,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-28T14:18:08Z",
+            "open_issues": 367,
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 8979
+            "stars": 8979,
+            "topics": [
+              "arm",
+              "arm64",
+              "bpf",
+              "disassembler",
+              "ethereum",
+              "framework",
+              "m0s65xx",
+              "m680x",
+              "m68k",
+              "mips",
+              "powerpc",
+              "reverse-engineering",
+              "riscv",
+              "security",
+              "sparc",
+              "systemz",
+              "tms320c64x",
+              "webassembly",
+              "x86",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1843,12 +2863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Objective-C headers as derived from runtime introspection",
+            "homepage": "https://github.com/nst/RuntimeBrowser",
             "id": 1235115,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2022-05-17T07:06:03Z",
+            "open_issues": 59,
             "owner": "nst",
             "repo": "iOS-Runtime-Headers",
-            "stars": 7972
+            "stars": 7972,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1859,12 +2884,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.",
+            "homepage": null,
             "id": 95544373,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-09T08:24:07Z",
+            "open_issues": 186,
             "owner": "AloneMonkey",
             "repo": "MonkeyDev",
-            "stars": 6799
+            "stars": 6799,
+            "topics": [
+              "cocoapods",
+              "ios",
+              "iosopendev",
+              "ipa",
+              "objective-c",
+              "reverse-engineering",
+              "theos",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1875,12 +2914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
+            "homepage": "https://dantheman827.github.io/ios-app-signer",
             "id": 45699315,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-01T00:42:47Z",
+            "open_issues": 123,
             "owner": "DanTheMan827",
             "repo": "ios-app-signer",
-            "stars": 6314
+            "stars": 6314,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1891,12 +2935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.",
+            "homepage": null,
             "id": 11351927,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-01T06:10:59Z",
+            "open_issues": 39,
             "owner": "facebook",
             "repo": "fishhook",
-            "stars": 5427
+            "stars": 5427,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1907,12 +2956,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform suite of tools for building and deploying software for iOS and other platforms.",
+            "homepage": "https://theos.dev",
             "id": 501976,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:04:06Z",
+            "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4911
+            "stars": 4911,
+            "topics": [
+              "build-system",
+              "ios",
+              "linux",
+              "macos",
+              "makefile",
+              "perl",
+              "theos",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1923,12 +2986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast iOS executable dumper",
+            "homepage": null,
             "id": 15789289,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2024-11-15T10:31:48Z",
+            "open_issues": 43,
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3824
+            "stars": 3824,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1939,12 +3007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.",
+            "homepage": null,
             "id": 6846111,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2023-12-01T07:03:15Z",
+            "open_issues": 80,
             "owner": "maciekish",
             "repo": "iReSign",
-            "stars": 3616
+            "stars": 3616,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1955,12 +3028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.",
+            "homepage": null,
             "id": 2474718,
             "language": "C",
+            "license": null,
             "last_commit": "2017-10-26T12:06:48Z",
+            "open_issues": 21,
             "owner": "stefanesser",
             "repo": "dumpdecrypted",
-            "stars": 3035
+            "stars": 3035,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1971,12 +3049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MachOView fork",
+            "homepage": null,
             "id": 6203497,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-07-22T07:29:07Z",
+            "open_issues": 17,
             "owner": "gdbinit",
             "repo": "MachOView",
-            "stars": 2868
+            "stars": 2868,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -1987,12 +3070,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LLVM Obfuscator",
+            "homepage": null,
             "id": 114925153,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-29T07:55:38Z",
+            "open_issues": 2,
             "owner": "HikariObfuscator",
             "repo": "Hikari",
-            "stars": 2106
+            "stars": 2106,
+            "topics": [
+              "compiler",
+              "llvm",
+              "obfuscator",
+              "obfuscator-llvm",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2003,12 +3097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line utility for inserting a dylib load command into a Mach-O binary",
+            "homepage": null,
             "id": 22401106,
             "language": "C",
+            "license": null,
             "last_commit": "2025-03-29T19:45:56Z",
+            "open_issues": 2,
             "owner": "tyilo",
             "repo": "insert_dylib",
-            "stars": 2092
+            "stars": 2092,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2019,12 +3118,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[WIP] Crappy iOS app analyzer",
+            "homepage": null,
             "id": 84626055,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2021-11-14T20:51:08Z",
+            "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1668
+            "stars": 1668,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2035,12 +3139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken",
+            "homepage": null,
             "id": 1419482,
             "language": "Objective-C",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-15T08:22:49Z",
+            "open_issues": 19,
             "owner": "ptoomey3",
             "repo": "Keychain-Dumper",
-            "stars": 1419
+            "stars": 1419,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2051,12 +3160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command Line Tool for interacting with MachO binaries on OSX/iOS",
+            "homepage": null,
             "id": 22631446,
             "language": "Objective-C",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-09-06T06:35:12Z",
+            "open_issues": 13,
             "owner": "alexzielenski",
             "repo": "optool",
-            "stars": 1287
+            "stars": 1287,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2067,12 +3181,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share iOS system framework's symbol files. Useful for symbolicating iOS crash report.",
+            "homepage": null,
             "id": 77455742,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-08-28T12:39:54Z",
+            "open_issues": 2,
             "owner": "Zuikyo",
             "repo": "iOS-System-Symbols",
-            "stars": 1079
+            "stars": 1079,
+            "topics": [
+              "crash-reports",
+              "ios-crash",
+              "symbol-files",
+              "symbolicate",
+              "symbolicatecrash"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2083,12 +3208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dylib injector for mach-o binaries",
+            "homepage": null,
             "id": 20761747,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2016-04-29T04:25:56Z",
+            "open_issues": 9,
             "owner": "KJCracks",
             "repo": "yololib",
-            "stars": 975
+            "stars": 975,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2099,12 +3229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reverse engineering tool to convert iOS app to dylib ",
+            "homepage": null,
             "id": 69991464,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-05-04T17:38:13Z",
+            "open_issues": 12,
             "owner": "tobefuturer",
             "repo": "app2dylib",
-            "stars": 811
+            "stars": 811,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2115,12 +3250,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C/Objective-C library for parsing Mach-O files.",
+            "homepage": null,
             "id": 29898256,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-08-10T20:28:58Z",
+            "open_issues": 10,
             "owner": "DeVaukz",
             "repo": "MachO-Kit",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "mach-o",
+              "macho",
+              "macho-parser",
+              "parsing"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2131,12 +3276,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔩 A pure-Ruby library for parsing Mach-O files.",
+            "homepage": "https://rubygems.org/gems/ruby-macho",
             "id": 39162633,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:15:49Z",
+            "open_issues": 0,
             "owner": "Homebrew",
             "repo": "ruby-macho",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "apple",
+              "homebrew",
+              "mach",
+              "macos",
+              "ruby",
+              "ruby-gem",
+              "ruby-library"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2147,12 +3305,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A macOS utility to extract dynamic libraries from the dyld_shared_cache of macOS and iOS.",
+            "homepage": "http://www.xs-labs.com",
             "id": 72776966,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-06-12T18:49:36Z",
+            "open_issues": 0,
             "owner": "macmade",
             "repo": "dyld_cache_extract",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "cache",
+              "dyld",
+              "dylib",
+              "extract",
+              "extract-dynamic-libraries",
+              "ios",
+              "macho",
+              "macos",
+              "macos-utility",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2163,12 +3337,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Modifications to Apple's dyld project to fix Objective-C information when extracting dyld_shared_cache from macOS Big Sur to help Hopper generate readable pseudocode.",
+            "homepage": null,
             "id": 277065598,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-01T07:55:28Z",
+            "open_issues": 3,
             "owner": "antons",
             "repo": "dyld-shared-cache-big-sur",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2179,12 +3358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift Class Dumper - Very neglected",
+            "homepage": null,
             "id": 74415638,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-04-03T03:34:04Z",
+            "open_issues": 9,
             "owner": "mxms0",
             "repo": "class-dump-swift",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -2201,12 +3385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 8579034,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-20T11:20:42Z",
+            "open_issues": 97,
             "owner": "obfuscator-llvm",
             "repo": "obfuscator",
-            "stars": 4389
+            "stars": 4389,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2217,12 +3406,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔒 Swift Obfuscator that protects iOS apps against reverse engineering attacks.",
+            "homepage": "https://swiftrocks.com",
             "id": 79385355,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-20T08:40:02Z",
+            "open_issues": 58,
             "owner": "rockbruno",
             "repo": "swiftshield",
-            "stars": 2546
+            "stars": 2546,
+            "topics": [
+              "ios",
+              "obfuscation",
+              "objc",
+              "objective-c",
+              "sourcekit",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2233,12 +3434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Objective-C obfuscator for Mach-O executables.",
+            "homepage": "http://www.polidea.com",
             "id": 19215974,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2020-01-04T10:01:52Z",
+            "open_issues": 35,
             "owner": "Polidea",
             "repo": "ios-class-guard",
-            "stars": 1663
+            "stars": 1663,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2249,12 +3455,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure your app by obfuscating all the hard-coded security-sensitive strings.",
+            "homepage": null,
             "id": 37571812,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2021-02-13T05:15:43Z",
+            "open_issues": 4,
             "owner": "pjebs",
             "repo": "Obfuscator-iOS",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2265,12 +3476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MachObfuscator is a programming-language-agnostic Mach-O apps obfuscator for Apple platforms.",
+            "homepage": null,
             "id": 150123362,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-08T22:05:43Z",
+            "open_issues": 20,
             "owner": "kam800",
             "repo": "MachObfuscator",
-            "stars": 545
+            "stars": 545,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -2287,12 +3503,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+            "homepage": "https://fastlane.tools",
             "id": 27442967,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:13:50Z",
+            "open_issues": 673,
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42038
+            "stars": 42039,
+            "topics": [
+              "android",
+              "apps",
+              "automation",
+              "deployment",
+              "fastlane",
+              "hacktoberfest",
+              "ios",
+              "mobile",
+              "ruby",
+              "screenshots"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2303,12 +3535,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtual machines for iOS and macOS",
+            "homepage": "https://getutm.app",
             "id": 181042062,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T07:54:18Z",
+            "open_issues": 1109,
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 35179
+            "stars": 35180,
+            "topics": [
+              "apple",
+              "emulation",
+              "ios",
+              "jailbreak",
+              "macos",
+              "qemu",
+              "utm",
+              "virtual-machines",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2319,12 +3566,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS library to natively render After Effects vector animations",
+            "homepage": "https://lottie.airbnb.tech",
             "id": 70198664,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T13:57:38Z",
+            "open_issues": 43,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26852
+            "stars": 26852,
+            "topics": [
+              "animation",
+              "bodymovin",
+              "custom-transitions",
+              "ios",
+              "ios-animation",
+              "ios-transition",
+              "keyframes",
+              "swift",
+              "transition-animation"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2335,12 +3597,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soulful docs for Swift & Objective-C",
+            "homepage": "https://realm.io",
             "id": 20552964,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-30T09:54:55Z",
+            "open_issues": 75,
             "owner": "realm",
             "repo": "jazzy",
-            "stars": 7379
+            "stars": 7379,
+            "topics": [
+              "ruby",
+              "sourcekit",
+              "sourcekitten",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2351,12 +3624,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚫 Stop saying \"you forgot to …\" in code review (in Ruby)",
+            "homepage": "https://danger.systems",
             "id": 43347873,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-29T03:30:00Z",
+            "open_issues": 163,
             "owner": "danger",
             "repo": "danger",
-            "stars": 5689
+            "stars": 5689,
+            "topics": [
+              "automation",
+              "bitbucket",
+              "ci",
+              "circle",
+              "code-review",
+              "danger",
+              "github",
+              "gitlab",
+              "travis"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2367,12 +3655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collective list of free APIs",
+            "homepage": "http://public-apis.org",
             "id": 472697800,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-23T16:11:30Z",
+            "open_issues": 12,
             "owner": "toddmotto",
             "repo": "public-apis",
-            "stars": 2741
+            "stars": 2741,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2383,12 +3676,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cleaner for Xcode.app built with react-native-macos",
+            "homepage": null,
             "id": 106890680,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2019-11-04T13:00:00Z",
+            "open_issues": 4,
             "owner": "waylybaye",
             "repo": "XcodeCleaner",
-            "stars": 1545
+            "stars": 1545,
+            "topics": [
+              "appstore",
+              "macos",
+              "react-native",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2399,12 +3702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Switch between projects faster. Don't write \"pod install\", \"pod update\" and \"cd <your project>\" anymore. Just click couple of buttons",
+            "homepage": null,
             "id": 272939079,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-14T13:14:50Z",
+            "open_issues": 2,
             "owner": "DKalachniuk",
             "repo": "XcodeProjects",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -2415,12 +3723,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swifty powered 🔌Markdown Documentation generator. If your team need easy way to maintain and create documentation, this generator is for you.",
+            "homepage": null,
             "id": 247447865,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-12-18T22:56:52Z",
+            "open_issues": 1,
             "owner": "robertherdzik",
             "repo": "SkrybaMD",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "documentaion",
+              "generator",
+              "generator-markdown",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         }
@@ -2429,15 +3747,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:21.032Z",
+    "last_updated": "2026-08-29T04:29:55.408Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Tools that every iOS developer should know.",
+      "homepage": null,
       "id": 82806422,
       "language": "Swift",
+      "license": null,
       "last_commit": "2024-06-08T00:16:44Z",
+      "open_issues": 12,
       "owner": "LeoMobileDeveloper",
       "repo": "ios-developer-tools",
-      "stars": 1784
+      "stars": 1784,
+      "topics": [
+        "apple",
+        "awesome",
+        "ios",
+        "objective",
+        "objective-c",
+        "swift",
+        "toolkit"
+      ]
     },
     "original_repository_sha": "4926efa12157c5c60910b8b86d1d2e00fcc0cb20",
     "enhanced_repository": "enhansome/enhansome-ios-developer-tools",
