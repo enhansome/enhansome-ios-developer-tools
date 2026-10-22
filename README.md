@@ -74,20 +74,20 @@
 
 ## Command Line Tool
 
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 190,096 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration.
-* [brew](https://github.com/Homebrew/brew) ⭐ 50,073 | 🐛 8 | 🌐 Ruby | 📅 2026-10-21 🍺 The missing package manager for macOS
-* [tmux](https://github.com/tmux/tmux) ⭐ 49,959 | 🐛 35 | 🌐 C | 📅 2026-10-21 tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ⭐ 190,115 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration.
+* [brew](https://github.com/Homebrew/brew) ⭐ 50,078 | 🐛 6 | 🌐 Ruby | 📅 2026-10-22 🍺 The missing package manager for macOS
+* [tmux](https://github.com/tmux/tmux) ⭐ 49,963 | 🐛 37 | 🌐 C | 📅 2026-10-22 tmux is a "terminal multiplexer", it enables a number of terminals (or windows)
   to be accessed and controlled from a single terminal.
-* [cloc](https://github.com/AlDanial/cloc) ⭐ 23,609 | 🐛 27 | 🌐 Perl | 📅 2026-09-20 cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-* [autojump](https://github.com/wting/autojump) ⭐ 16,964 | 🐛 232 | 🌐 Python | 📅 2025-02-27 A cd command that learns - easily navigate directories from the command line
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,938 | 🐛 296 | 🌐 Swift | 📅 2026-10-21 A code library and command-line formatting tool for reformatting Swift code
-* [XcodeGen](https://github.com/yonaskolb/XcodeGen) ⭐ 8,878 | 🐛 402 | 🌐 Swift | 📅 2026-10-13 A Swift command line tool for generating your Xcode project
+* [cloc](https://github.com/AlDanial/cloc) ⭐ 23,615 | 🐛 29 | 🌐 Perl | 📅 2026-10-22 cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+* [autojump](https://github.com/wting/autojump) ⭐ 16,967 | 🐛 232 | 🌐 Python | 📅 2025-02-27 A cd command that learns - easily navigate directories from the command line
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,940 | 🐛 303 | 🌐 Swift | 📅 2026-10-22 A code library and command-line formatting tool for reformatting Swift code
+* [XcodeGen](https://github.com/yonaskolb/XcodeGen) ⭐ 8,882 | 🐛 402 | 🌐 Swift | 📅 2026-10-13 A Swift command line tool for generating your Xcode project
 * [Jazzy](https://github.com/realm/jazzy) ⭐ 7,377 | 🐛 74 | 🌐 Ruby | 📅 2026-10-01 Soulful docs for Swift & Objective-C
 * [xctool](https://github.com/facebook/xctool) ⚠️ Archived An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
-* [synx](https://github.com/venmo/synx) ⭐ 6,033 | 🐛 56 | 🌐 Ruby | 📅 2019-07-18 A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
-* [idb](https://github.com/facebook/idb) ⭐ 5,380 | 🐛 194 | 🌐 Swift | 📅 2026-10-21 idb is a flexible command line interface for automating iOS simulators and devices
+* [synx](https://github.com/venmo/synx) ⭐ 6,032 | 🐛 56 | 🌐 Ruby | 📅 2019-07-18 A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
+* [idb](https://github.com/facebook/idb) ⭐ 5,382 | 🐛 193 | 🌐 Swift | 📅 2026-10-22 idb is a flexible command line interface for automating iOS simulators and devices
 * [xcpretty](https://github.com/supermarin/xcpretty) ⭐ 4,033 | 🐛 120 | 🌐 Ruby | 📅 2025-03-26 Flexible and fast xcodebuild formatter
-* [swift-argument-parser](https://github.com/apple/swift-argument-parser) ⭐ 3,793 | 🐛 157 | 🌐 Swift | 📅 2026-10-20 Open-source library that makes it straightforward to parse command-line arguments in Swift
+* [swift-argument-parser](https://github.com/apple/swift-argument-parser) ⭐ 3,794 | 🐛 158 | 🌐 Swift | 📅 2026-10-20 Open-source library that makes it straightforward to parse command-line arguments in Swift
 * [xcbuild](https://github.com/facebook/xcbuild) ⚠️ Archived xcbuild is an Xcode-compatible build tool with the goal of providing faster builds, better documentation of the build process and running on multiple platforms (macOS, Linux, and Windows)
 * [Kin](https://github.com/Karumi/Kin) ⭐ 1,066 | 🐛 4 | 🌐 Python | 📅 2026-08-10 Simple PBXProj Verifier (If you has problem to git merge the project.pbxproj file)
 * [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) ⭐ 827 | 🐛 7 | 🌐 Swift | 📅 2019-10-16 📝 Swift code formatter using SwiftSyntax.
@@ -102,10 +102,10 @@
 
 ## DEBUG
 
-* [DoraemonKit](https://github.com/didi/DoraemonKit) ⭐ 20,416 | 🐛 274 | 🌐 Java | 📅 2026-10-20 A full-featured App (iOS & Android) development assistant.
-* [FLEX](https://github.com/Flipboard/FLEX) ⭐ 14,641 | 🐛 51 | 🌐 Objective-C | 📅 2026-10-18 An in-app debugging and exploration tool for iOS
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) ⭐ 13,317 | 🐛 6 | 🌐 Objective-C | 📅 2026-10-15 A fast & simple, yet powerful & flexible logging framework for Mac and iOS
-* [matrix](https://github.com/Tencent/matrix) ⭐ 12,067 | 🐛 408 | 🌐 Java | 📅 2024-07-23 Matrix is a plugin style, non-invasive APM system developed by WeChat.
+* [DoraemonKit](https://github.com/didi/DoraemonKit) ⭐ 20,413 | 🐛 274 | 🌐 Java | 📅 2026-10-20 A full-featured App (iOS & Android) development assistant.
+* [FLEX](https://github.com/Flipboard/FLEX) ⭐ 14,642 | 🐛 51 | 🌐 Objective-C | 📅 2026-10-18 An in-app debugging and exploration tool for iOS
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) ⭐ 13,318 | 🐛 6 | 🌐 Objective-C | 📅 2026-10-15 A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+* [matrix](https://github.com/Tencent/matrix) ⭐ 12,068 | 🐛 408 | 🌐 Java | 📅 2024-07-23 Matrix is a plugin style, non-invasive APM system developed by WeChat.
 * [chisel](https://github.com/facebook/chisel) ⭐ 9,176 | 🐛 50 | 🌐 Python | 📅 2026-03-15 Chisel is a collection of LLDB commands to assist debugging iOS apps.
 * [spy-debugger](https://github.com/wuchangming/spy-debugger) ⭐ 7,618 | 🐛 106 | 🌐 JavaScript | 📅 2025-09-01 WebView,WeChat WebView,Safari Debugger
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) ⭐ 6,530 | 🐛 76 | 🌐 Objective-C | 📅 2022-08-04 Injection for Xcode is an Xcode plugin (available via Alcatraz) or AppCode that dynamically inserts new Swift / Objective-C code into a running app in order to speed up your build process
@@ -113,7 +113,7 @@
 * [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) ⭐ 6,201 | 🐛 21 | 🌐 C | 📅 2025-07-02 A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 * [PonyDebugger](https://github.com/square/PonyDebugger) ⭐ 5,847 | 🐛 46 | 🌐 Objective-C | 📅 2023-03-18Remote network and data debugging for your native iOS app using Chrome Developer Tools
 * [Knuff](https://github.com/KnuffApp/Knuff) ⭐ 5,213 | 🐛 19 | 🌐 Objective-C | 📅 2022-09-04 The debug application for Apple Push Notification Service (APNs).
-* [KSCrash](https://github.com/kstenerud/KSCrash) ⭐ 4,500 | 🐛 47 | 🌐 Objective-C | 📅 2026-10-21 The Ultimate iOS Crash Reporter
+* [KSCrash](https://github.com/kstenerud/KSCrash) ⭐ 4,502 | 🐛 45 | 🌐 Objective-C | 📅 2026-10-21 The Ultimate iOS Crash Reporter
 * [GodEye](https://github.com/zixun/GodEye) ⭐ 3,889 | 🐛 10 | 🌐 Swift | 📅 2024-09-22 Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 * [dSYMTools](https://github.com/answer-huang/dSYMTools) ⭐ 3,469 | 🐛 1 | 🌐 C | 📅 2025-10-25 Analyze crash log with DSYM file
 * [LookinServer](https://github.com/QMUI/LookinServer) ⭐ 2,869 | 🐛 40 | 🌐 Objective-C | 📅 2024-07-17 Free macOS app for iOS view debugging
@@ -139,7 +139,7 @@
 
 ### Memory
 
-* [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) ⭐ 4,224 | 🐛 43 | 🌐 Objective-C++ | 📅 2026-10-16 iOS library to help detecting retain cycles in runtime.
+* [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) ⭐ 4,224 | 🐛 43 | 🌐 Objective-C++ | 📅 2026-10-21 iOS library to help detecting retain cycles in runtime.
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) ⚠️ Archived iOS tool that helps with profiling iOS Memory usage.
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) ⭐ 3,311 | 🐛 10 | 🌐 Swift | 📅 2026-03-05 Find retain cycles / memory leaks sooner
 * [OOMDetector](https://github.com/Tencent/OOMDetector) ⭐ 2,347 | 🐛 38 | 🌐 Objective-C++ | 📅 2023-02-21 OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
@@ -147,15 +147,15 @@
 
 ## Project Analyze
 
-* [swiftlint](https://github.com/realm/SwiftLint) ⭐ 19,768 | 🐛 537 | 🌐 Swift | 📅 2026-10-16 A tool to enforce Swift style and conventions.
+* [swiftlint](https://github.com/realm/SwiftLint) ⭐ 19,771 | 🐛 537 | 🌐 Swift | 📅 2026-10-16 A tool to enforce Swift style and conventions.
 * [periphery](https://github.com/peripheryapp/periphery) ⚠️ Archived Eliminate Unused Swift Code.
 * [FengNiao](https://github.com/onevcat/FengNiao) ⭐ 3,578 | 🐛 24 | 🌐 Swift | 📅 2026-05-09 A command line tool for cleaning unused resources in Xcode.
-* [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) ⭐ 2,887 | 🐛 13 | 🌐 Swift | 📅 2026-04-27 An app that lets you open .car files and browse/extract their images.
-* [xcodeproj](https://github.com/tuist/xcodeproj) ⭐ 2,226 | 🐛 18 | 🌐 Swift | 📅 2026-10-20 📝 Read, update and write your Xcode projects <https://tuist.github.io/xcodeproj/>
+* [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) ⭐ 2,888 | 🐛 13 | 🌐 Swift | 📅 2026-04-27 An app that lets you open .car files and browse/extract their images.
+* [xcodeproj](https://github.com/tuist/xcodeproj) ⭐ 2,226 | 🐛 18 | 🌐 Swift | 📅 2026-10-21 📝 Read, update and write your Xcode projects <https://tuist.github.io/xcodeproj/>
 * [fui](https://github.com/dblock/fui) ⭐ 2,045 | 🐛 10 | 🌐 Ruby | 📅 2026-04-12 Find unused Objective-C imports.
 * [objc-dependency-visualizer](https://github.com/PaulTaykalo/objc-dependency-visualizer) ⭐ 1,868 | 🐛 18 | 🌐 JavaScript | 📅 2020-04-28 Objective-C and Swift dependency visualizer. It's tool that helps to visualize current state of your project. It's really easy to see how tight your classes are coupled.
 * [cartool](https://github.com/steventroughtonsmith/cartool) ⚠️ Archived Export images from OS X / iOS .car CoreUI archives
-* [Pecker](https://github.com/woshiccm/Pecker.git) ⭐ 1,458 | 🐛 12 | 🌐 Swift | 📅 2022-04-08 A tool to detect unused Swift code based on [IndexStoreDB](https://github.com/apple/indexstore-db.git) ⭐ 421 | 🐛 16 | 🌐 C++ | 📅 2026-10-21 and [SwiftSyntax](https://github.com/apple/swift-syntax.git) ⭐ 3,712 | 🐛 182 | 🌐 Swift | 📅 2026-10-21.
+* [Pecker](https://github.com/woshiccm/Pecker.git) ⭐ 1,458 | 🐛 12 | 🌐 Swift | 📅 2022-04-08 A tool to detect unused Swift code based on [IndexStoreDB](https://github.com/apple/indexstore-db.git) ⭐ 421 | 🐛 16 | 🌐 C++ | 📅 2026-10-22 and [SwiftSyntax](https://github.com/apple/swift-syntax.git) ⭐ 3,711 | 🐛 180 | 🌐 Swift | 📅 2026-10-22.
 * [objc\_dep](https://github.com/nst/objc_dep) ⭐ 1,347 | 🐛 5 | 🌐 Python | 📅 2024-01-19 Graph the import dependencies in an Objective-C project
 * [IBAnalyzer](https://github.com/fastred/IBAnalyzer) ⚠️ Archived Find common xib and storyboard-related problems without running your app or writing unit tests.
 * [objc\_cover](https://github.com/nst/objc_cover) ⚠️ Archived Quick Python script over otool to help spotting potentially unused methods in Objective-C Mach-O executable files
@@ -168,12 +168,12 @@
 
 ## Network
 
-* [Lantern](https://github.com/getlantern/lantern) ⭐ 16,462 | 🐛 53 | 🌐 Dart | 📅 2026-10-21 Lantern delivers fast access to the open Internet
-* [iperf](https://github.com/esnet/iperf) ⭐ 8,828 | 🐛 242 | 🌐 C | 📅 2026-10-16 iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
+* [Lantern](https://github.com/getlantern/lantern) ⭐ 16,469 | 🐛 30 | 🌐 Dart | 📅 2026-10-22 Lantern delivers fast access to the open Internet
+* [iperf](https://github.com/esnet/iperf) ⭐ 8,832 | 🐛 243 | 🌐 C | 📅 2026-10-16 iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) ⚠️ Archived GCDWebServer is a modern and lightweight GCD based HTTP 1.1 server designed to be embedded in iOS, macOS & tvOS apps.
 * [Bagel](https://github.com/yagiz/Bagel) ⭐ 4,425 | 🐛 37 | 🌐 Swift | 📅 2024-08-20 a little native network debugging tool for iOS
 * [netfox](https://github.com/kasketis/netfox) ⭐ 3,753 | 🐛 47 | 🌐 Swift | 📅 2024-03-21 A lightweight, one line setup, iOS / OSX network debugging library! 🦊
-* [Wormholy](https://github.com/pmusolino/Wormholy) ⭐ 2,622 | 🐛 12 | 🌐 Swift | 📅 2026-09-17 iOS network debugging
+* [Wormholy](https://github.com/pmusolino/Wormholy) ⭐ 2,623 | 🐛 12 | 🌐 Swift | 📅 2026-09-17 iOS network debugging
 * [Charles](https://www.charlesproxy.com/) Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
 * [Proxyman](https://proxyman.io) Proxyman 👨‍🚀 is a high-performance macOS app, which enables developers to view HTTP/HTTPS requests from apps and domains. Support iOS Simulator and iOS devices. Easy to use and user friendly.
 * [Postman](https://www.getpostman.com/) Faster, easier API development
@@ -192,13 +192,13 @@
 
 ## Compiler
 
-* [emscripten](https://github.com/kripken/emscripten) ⭐ 27,733 | 🐛 2,530 | 🌐 C++ | 📅 2026-10-21 An LLVM-to-JavaScript Compiler
-* [bazel](https://github.com/bazelbuild/bazel) ⭐ 25,972 | 🐛 1,995 | 🌐 Java | 📅 2026-10-21 A fast, scalable, multi-language and extensible build system
+* [emscripten](https://github.com/kripken/emscripten) ⭐ 27,736 | 🐛 2,528 | 🌐 C++ | 📅 2026-10-22 An LLVM-to-JavaScript Compiler
+* [bazel](https://github.com/bazelbuild/bazel) ⭐ 25,974 | 🐛 2,023 | 🌐 Java | 📅 2026-10-22 A fast, scalable, multi-language and extensible build system
   * [PodToBUILD](https://github.com/pinterest/PodToBUILD) ⭐ 330 | 🐛 79 | 🌐 Swift | 📅 2023-09-21 An easy way to build CocoaPods with Bazel by Pinterest
-* [antlr4](https://github.com/antlr/antlr4) ⭐ 19,035 | 🐛 1,099 | 🌐 Java | 📅 2026-02-16 ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. <http://antlr.org>
+* [antlr4](https://github.com/antlr/antlr4) ⭐ 19,032 | 🐛 1,100 | 🌐 Java | 📅 2026-02-16 ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. <http://antlr.org>
 * [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) ⭐ 4,344 | 🐛 19 | 🌐 Swift | 📅 2026-03-08 Build Time Analyzer for Swift
-* [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) ⭐ 3,583 | 🐛 5 | 🌐 Swift | 📅 2019-02-01 Collection of advice on optimizing compile times of Swift projects.
-* [SourceKitten](https://github.com/jpsim/SourceKitten) ⭐ 2,426 | 🐛 101 | 🌐 Swift | 📅 2026-10-10 An adorable little framework and command line tool for interacting with SourceKit.
+* [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) ⭐ 3,584 | 🐛 5 | 🌐 Swift | 📅 2019-02-01 Collection of advice on optimizing compile times of Swift projects.
+* [SourceKitten](https://github.com/jpsim/SourceKitten) ⭐ 2,427 | 🐛 101 | 🌐 Swift | 📅 2026-10-10 An adorable little framework and command line tool for interacting with SourceKit.
 * [zld](https://github.com/michaeleisel/zld) ⚠️ Archived A faster version of Apple's linker
 * [xcconfigs](https://github.com/xcconfigs/xcconfigs) ⭐ 1,192 | 🐛 0 | 📅 2020-12-02 Common Xcode configuration files/settings.
 * [XCMetrics](https://github.com/spotify/XCMetrics) ⭐ 1,161 | 🐛 20 | 🌐 Swift | 📅 2024-04-26 XCMetrics is the easiest way to collect Xcode builds metrics and improve your developer productivity.
@@ -210,12 +210,12 @@
 ## Test
 
 * [Quick](https://github.com/Quick/Quick) ⭐ 9,820 | 🐛 49 | 🌐 Swift | 📅 2026-05-18 The Swift (and Objective-C) testing framework.
-* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,279 | 🐛 848 | 🌐 C | 📅 2026-06-10 A cross-platform protocol library to communicate with iOS devices
-* [KIF](https://github.com/kif-framework/KIF) ⭐ 6,248 | 🐛 55 | 🌐 Objective-C | 📅 2026-10-20 Keep It Functional - An iOS Functional Testing Framework
-* [EarlGrey](https://github.com/google/EarlGrey) ⭐ 5,699 | 🐛 264 | 🌐 Objective-C | 📅 2026-10-20 🍵 iOS UI Automation Test Framework
-* [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) ⭐ 4,374 | 🐛 226 | 🌐 Swift | 📅 2026-10-20 📸 Delightful Swift snapshot testing
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,281 | 🐛 850 | 🌐 C | 📅 2026-06-10 A cross-platform protocol library to communicate with iOS devices
+* [KIF](https://github.com/kif-framework/KIF) ⭐ 6,247 | 🐛 55 | 🌐 Objective-C | 📅 2026-10-20 Keep It Functional - An iOS Functional Testing Framework
+* [EarlGrey](https://github.com/google/EarlGrey) ⭐ 5,699 | 🐛 264 | 🌐 Objective-C | 📅 2026-10-21 🍵 iOS UI Automation Test Framework
+* [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) ⭐ 4,376 | 🐛 225 | 🌐 Swift | 📅 2026-10-21 📸 Delightful Swift snapshot testing
 * [Kiwi](https://github.com/kiwi-bdd/Kiwi) ⭐ 4,102 | 🐛 89 | 🌐 Objective-C | 📅 2023-09-05 Simple BDD for iOS
-* [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,635 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 Install and debug iPhone apps from the command line, without using Xcode
+* [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,636 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 Install and debug iPhone apps from the command line, without using Xcode
 * [FBSnapshotTestCase](https://github.com/facebookarchive/ios-snapshot-test-case) ⚠️ Archived Snapshot view unit tests for iOS
 * [Specta](https://github.com/specta/specta) ⭐ 2,308 | 🐛 18 | 🌐 Objective-C | 📅 2022-02-27 A light-weight TDD / BDD framework for Objective-C.
 * [OCMock](https://github.com/erikdoe/ocmock) ⭐ 2,164 | 🐛 50 | 🌐 Objective-C | 📅 2024-06-30 Mock objects for Objective-C
@@ -233,17 +233,17 @@
 
 ## Reverse engineering
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,454 | 🐛 59 | 🌐 Python | 📅 2026-09-17 Assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.
-* [capstone](https://github.com/aquynh/capstone) ⭐ 9,121 | 🐛 351 | 🌐 C | 📅 2026-10-20 Capstone disassembly/disassembler framework
+* [objection](https://github.com/sensepost/objection) ⭐ 9,455 | 🐛 59 | 🌐 Python | 📅 2026-09-17 Assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.
+* [capstone](https://github.com/aquynh/capstone) ⭐ 9,125 | 🐛 349 | 🌐 C | 📅 2026-10-21 Capstone disassembly/disassembler framework
 * [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) ⚠️ Archived iOS Objective-C headers as derived from runtime introspection
-* [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) ⭐ 6,805 | 🐛 187 | 🌐 Python | 📅 2026-10-21 CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
-* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,326 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+* [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) ⭐ 6,805 | 🐛 187 | 🌐 Python | 📅 2026-10-22 CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
+* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,325 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 * [fishhook](https://github.com/facebook/fishhook) ⭐ 5,431 | 🐛 39 | 🌐 C | 📅 2024-08-01 A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS. You can use fishhook to hook C function.
-* [theos](https://github.com/theos/theos) ⭐ 4,934 | 🐛 69 | 🌐 Makefile | 📅 2026-10-08 Unified cross-platform Makefile system
+* [theos](https://github.com/theos/theos) ⭐ 4,935 | 🐛 68 | 🌐 Makefile | 📅 2026-10-08 Unified cross-platform Makefile system
 * [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,830 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 Fast iOS executable dumper
-* [iReSign](https://github.com/maciekish/iReSign) ⭐ 3,613 | 🐛 81 | 🌐 Objective-C | 📅 2023-12-01 iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution.
+* [iReSign](https://github.com/maciekish/iReSign) ⭐ 3,612 | 🐛 81 | 🌐 Objective-C | 📅 2023-12-01 iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution.
 * [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) ⭐ 3,040 | 🐛 21 | 🌐 C | 📅 2017-10-26 Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
-* [MachOView](https://github.com/gdbinit/MachOView) ⭐ 2,872 | 🐛 16 | 🌐 C | 📅 2024-07-22 View the raw data of mach-o(iOS executable file format)
+* [MachOView](https://github.com/gdbinit/MachOView) ⭐ 2,871 | 🐛 16 | 🌐 C | 📅 2024-07-22 View the raw data of mach-o(iOS executable file format)
 * [Hikari](https://github.com/HikariObfuscator/Hikari) ⚠️ Archived LLVM Obfuscator <https://keybase.io/team/hikari>
 * [insert\_dylib](https://github.com/Tyilo/insert_dylib) ⭐ 2,100 | 🐛 2 | 🌐 C | 📅 2025-03-29 Command line utility for inserting a dylib load command into a Mach-O binary
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.
@@ -279,8 +279,8 @@
 
 ## App Guard
 
-* [obfuscator](https://github.com/obfuscator-llvm/obfuscator) ⭐ 4,393 | 🐛 97 | 📅 2023-10-20 obfuscator
-* [swiftshield](https://github.com/rockbruno/swiftshield) ⭐ 2,548 | 🐛 57 | 🌐 Swift | 📅 2022-11-20 Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+* [obfuscator](https://github.com/obfuscator-llvm/obfuscator) ⭐ 4,394 | 🐛 97 | 📅 2023-10-20 obfuscator
+* [swiftshield](https://github.com/rockbruno/swiftshield) ⭐ 2,550 | 🐛 57 | 🌐 Swift | 📅 2022-11-20 Swift Obfuscator that protects iOS apps against reverse engineering attacks.
 * [ios-class-guard](https://github.com/Polidea/ios-class-guard) ⭐ 1,659 | 🐛 35 | 🌐 Objective-C | 📅 2020-01-04 Simple Objective-C obfuscator for Mach-O executables
 * [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) ⭐ 672 | 🐛 4 | 🌐 Objective-C | 📅 2021-02-13 Secure your app by obfuscating all the hard-coded security-sensitive strings.
 * [MachObfuscator](https://github.com/kam800/MachObfuscator) ⭐ 544 | 🐛 20 | 🌐 Swift | 📅 2022-10-08 MachObfuscator is a programming-language-agnostic Mach-O apps obfuscator for Apple platforms.
@@ -298,9 +298,9 @@
 
 ## Other
 
-* [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,274 | 🐛 684 | 🌐 Ruby | 📅 2026-10-21 Automate building and releasing your iOS and Android apps
-* [UTM](https://github.com/utmapp/UTM) ⭐ 36,216 | 🐛 1,131 | 🌐 Swift | 📅 2026-10-20 Virtual machines for iOS
-* [lottie-ios](https://github.com/airbnb/lottie-ios) ⭐ 26,908 | 🐛 45 | 🌐 Swift | 📅 2026-10-06 An iOS library to natively render After Effects vector animations
+* [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,280 | 🐛 686 | 🌐 Ruby | 📅 2026-10-21 Automate building and releasing your iOS and Android apps
+* [UTM](https://github.com/utmapp/UTM) ⭐ 36,456 | 🐛 1,135 | 🌐 Swift | 📅 2026-10-20 Virtual machines for iOS
+* [lottie-ios](https://github.com/airbnb/lottie-ios) ⭐ 26,912 | 🐛 45 | 🌐 Swift | 📅 2026-10-06 An iOS library to natively render After Effects vector animations
 * [jazzy](https://github.com/realm/jazzy) ⭐ 7,377 | 🐛 74 | 🌐 Ruby | 📅 2026-10-01 Soulful docs for Swift & Objective-C
 * [danger](https://github.com/danger/danger) ⭐ 5,696 | 🐛 170 | 🌐 Ruby | 📅 2026-10-09 Formalize your Pull Request etiquette.
 * [public-apis](https://github.com/toddmotto/public-apis) ⭐ 2,748 | 🐛 13 | 📅 2024-06-23 A collective list of public JSON APIs。
@@ -335,4 +335,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
