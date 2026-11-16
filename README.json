@@ -19,7 +19,7 @@
             "open_issues": 997,
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76155,
+            "stars": 76153,
             "topics": [
               "books",
               "cs",
@@ -144,7 +144,7 @@
             "open_issues": 219,
             "owner": "Carthage",
             "repo": "Carthage",
-            "stars": 15136,
+            "stars": 15139,
             "topics": [
               "carthage",
               "cocoa",
@@ -288,11 +288,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-15T12:52:39Z",
-            "open_issues": 313,
+            "last_commit": "2026-11-16T12:08:14Z",
+            "open_issues": 309,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190634,
+            "stars": 190606,
             "topics": [
               "cli",
               "cli-app",
@@ -315,33 +315,6 @@
         },
         {
           "node_type": "item",
-          "title": "brew",
-          "description": "🍺 The missing package manager for macOS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🍺 The Package Manager for Everywhere",
-            "homepage": "https://brew.sh",
-            "id": 53238813,
-            "language": "Ruby",
-            "license": "BSD-2-Clause",
-            "last_commit": "2026-11-15T16:09:21Z",
-            "open_issues": 19,
-            "owner": "Homebrew",
-            "repo": "brew",
-            "stars": 50341,
-            "topics": [
-              "brew",
-              "homebrew",
-              "macos",
-              "package-manager",
-              "ruby"
-            ]
-          },
-          "first_seen": "2026-08-28T20:58:21.032Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux",
           "description": "tmux is a \"terminal multiplexer\", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal.",
           "children": [],
@@ -352,12 +325,39 @@
             "id": 36836475,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-11-14T17:42:49Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-16T18:48:32Z",
+            "open_issues": 45,
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 50320,
+            "stars": 50403,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:58:21.032Z"
+        },
+        {
+          "node_type": "item",
+          "title": "brew",
+          "description": "🍺 The missing package manager for macOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍺 The Package Manager for Everywhere",
+            "homepage": "https://brew.sh",
+            "id": 53238813,
+            "language": "Ruby",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-11-16T18:29:54Z",
+            "open_issues": 22,
+            "owner": "Homebrew",
+            "repo": "brew",
+            "stars": 50356,
+            "topics": [
+              "brew",
+              "homebrew",
+              "macos",
+              "package-manager",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -377,7 +377,7 @@
             "open_issues": 26,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23668,
+            "stars": 23669,
             "topics": [
               "cloc",
               "count-lines",
@@ -425,10 +425,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-10-13T10:27:19Z",
-            "open_issues": 408,
+            "open_issues": 407,
             "owner": "yonaskolb",
             "repo": "XcodeGen",
-            "stars": 8956,
+            "stars": 8960,
             "topics": [
               "ci",
               "cli",
@@ -455,11 +455,11 @@
             "id": 66302557,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-15T16:21:12Z",
-            "open_issues": 290,
+            "last_commit": "2026-11-16T18:53:27Z",
+            "open_issues": 289,
             "owner": "nicklockwood",
             "repo": "SwiftFormat",
-            "stars": 8955,
+            "stars": 8959,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -528,7 +528,7 @@
             "open_issues": 56,
             "owner": "venmo",
             "repo": "synx",
-            "stars": 6028,
+            "stars": 6027,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -545,11 +545,11 @@
             "id": 41870517,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-13T17:38:36Z",
-            "open_issues": 204,
+            "last_commit": "2026-11-16T18:18:59Z",
+            "open_issues": 205,
             "owner": "meta",
             "repo": "idb",
-            "stars": 5424,
+            "stars": 5425,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -595,7 +595,7 @@
             "open_issues": 164,
             "owner": "apple",
             "repo": "swift-argument-parser",
-            "stars": 3807,
+            "stars": 3808,
             "topics": [
               "cli",
               "command-line",
@@ -669,7 +669,7 @@
             "open_issues": 7,
             "owner": "inamiy",
             "repo": "SwiftRewriter",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "code-formatter",
               "swift",
@@ -743,11 +743,11 @@
             "id": 144705602,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T11:11:26Z",
+            "last_commit": "2026-11-16T07:53:33Z",
             "open_issues": 276,
             "owner": "didi",
             "repo": "DoKit",
-            "stars": 20418,
+            "stars": 20417,
             "topics": [
               "android",
               "ios",
@@ -776,7 +776,7 @@
             "open_issues": 52,
             "owner": "FLEXTool",
             "repo": "FLEX",
-            "stars": 14650,
+            "stars": 14649,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -793,11 +793,11 @@
             "id": 1549138,
             "language": "Objective-C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-10T17:03:56Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-16T07:31:39Z",
+            "open_issues": 6,
             "owner": "CocoaLumberjack",
             "repo": "CocoaLumberjack",
-            "stars": 13322,
+            "stars": 13321,
             "topics": [
               "carthage",
               "cocoalumberjack",
@@ -835,7 +835,7 @@
             "open_issues": 408,
             "owner": "Tencent",
             "repo": "matrix",
-            "stars": 12073,
+            "stars": 12072,
             "topics": [
               "android",
               "apm-client",
@@ -907,7 +907,7 @@
             "open_issues": 76,
             "owner": "johnno1962",
             "repo": "injectionforxcode",
-            "stars": 6530,
+            "stars": 6531,
             "topics": [
               "xcode-plugin",
               "xcodebuild"
@@ -973,7 +973,7 @@
             "open_issues": 46,
             "owner": "square",
             "repo": "PonyDebugger",
-            "stars": 5846,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -1011,8 +1011,8 @@
             "id": 4691393,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-11-15T16:23:02Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-16T17:15:21Z",
+            "open_issues": 44,
             "owner": "kstenerud",
             "repo": "KSCrash",
             "stars": 4506,
@@ -1081,7 +1081,7 @@
             "open_issues": 40,
             "owner": "QMUI",
             "repo": "LookinServer",
-            "stars": 2870,
+            "stars": 2872,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -1282,11 +1282,11 @@
           "repo_info": {
             "archived": false,
             "description": "🍎Objective C Method Tracing Call Chart",
-            "homepage": "https://everettjf.github.io/AppleTrace/",
+            "homepage": "https://asp.run/appletrace/",
             "id": 102832172,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-12T17:37:53Z",
+            "last_commit": "2026-11-15T17:59:07Z",
             "open_issues": 1,
             "owner": "everettjf",
             "repo": "appletrace",
@@ -1347,7 +1347,7 @@
                 "open_issues": 162,
                 "owner": "jlfwong",
                 "repo": "speedscope",
-                "stars": 6790,
+                "stars": 6791,
                 "topics": [
                   "flamegraph",
                   "flamegraphs",
@@ -1534,7 +1534,7 @@
             "open_issues": 541,
             "owner": "realm",
             "repo": "SwiftLint",
-            "stars": 19791,
+            "stars": 19792,
             "topics": [
               "code-quality",
               "hacktoberfest",
@@ -1562,7 +1562,7 @@
             "open_issues": 0,
             "owner": "peripheryapp",
             "repo": "periphery",
-            "stars": 6177,
+            "stars": 6178,
             "topics": [
               "apple",
               "ios",
@@ -1644,7 +1644,7 @@
             "id": 93763457,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-14T22:46:16Z",
+            "last_commit": "2026-11-16T12:41:43Z",
             "open_issues": 23,
             "owner": "tuist",
             "repo": "XcodeProj",
@@ -1754,7 +1754,7 @@
             "open_issues": 12,
             "owner": "woshiccm",
             "repo": "Pecker",
-            "stars": 1459,
+            "stars": 1460,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -1887,11 +1887,11 @@
             "id": 1380117,
             "language": "Dart",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T19:21:02Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-16T15:36:53Z",
+            "open_issues": 30,
             "owner": "getlantern",
             "repo": "lantern",
-            "stars": 16808,
+            "stars": 16818,
             "topics": [
               "accelerator",
               "censorship",
@@ -1920,7 +1920,7 @@
             "open_issues": 263,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8885,
+            "stars": 8887,
             "topics": [
               "iperf3"
             ]
@@ -2034,7 +2034,7 @@
             "open_issues": 12,
             "owner": "pmusolino",
             "repo": "Wormholy",
-            "stars": 2627,
+            "stars": 2628,
             "topics": [
               "alamofire",
               "charles",
@@ -2071,7 +2071,7 @@
             "open_issues": 15,
             "owner": "sqlcipher",
             "repo": "sqlcipher",
-            "stars": 7328,
+            "stars": 7329,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -2115,11 +2115,11 @@
             "id": 1357796,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T15:46:20Z",
-            "open_issues": 2540,
+            "last_commit": "2026-11-16T18:34:41Z",
+            "open_issues": 2543,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27776,
+            "stars": 27780,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -2166,11 +2166,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T22:47:04Z",
-            "open_issues": 2116,
+            "last_commit": "2026-11-16T19:39:37Z",
+            "open_issues": 2135,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 26106,
+            "stars": 26108,
             "topics": [
               "bazel",
               "build",
@@ -2197,10 +2197,10 @@
             "language": "Java",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-30T08:32:16Z",
-            "open_issues": 1103,
+            "open_issues": 1105,
             "owner": "antlr",
             "repo": "antlr4",
-            "stars": 19044,
+            "stars": 19046,
             "topics": [
               "antlr",
               "antlr4",
@@ -2473,10 +2473,10 @@
             "language": "C",
             "license": "LGPL-2.1",
             "last_commit": "2026-06-10T07:52:18Z",
-            "open_issues": 851,
+            "open_issues": 850,
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8350,
+            "stars": 8351,
             "topics": [
               "c",
               "ios",
@@ -2503,7 +2503,7 @@
             "open_issues": 56,
             "owner": "kif-framework",
             "repo": "KIF",
-            "stars": 6246,
+            "stars": 6247,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -2520,8 +2520,8 @@
             "id": 51094210,
             "language": "Objective-C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T05:13:03Z",
-            "open_issues": 266,
+            "last_commit": "2026-11-16T18:59:21Z",
+            "open_issues": 265,
             "owner": "google",
             "repo": "EarlGrey",
             "stars": 5701,
@@ -2556,7 +2556,7 @@
             "open_issues": 228,
             "owner": "pointfreeco",
             "repo": "swift-snapshot-testing",
-            "stars": 4395,
+            "stars": 4396,
             "topics": [
               "screenshot-testing",
               "snapshot-testing",
@@ -2603,7 +2603,7 @@
             "open_issues": 45,
             "owner": "ios-control",
             "repo": "ios-deploy",
-            "stars": 3640,
+            "stars": 3639,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -2737,7 +2737,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2025-12-06T01:14:51Z",
-            "open_issues": 121,
+            "open_issues": 120,
             "owner": "libimobiledevice",
             "repo": "usbmuxd",
             "stars": 1800,
@@ -2769,7 +2769,7 @@
             "open_issues": 1,
             "owner": "jonreid",
             "repo": "XcodeCoverage",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "coverage",
               "objective-c",
@@ -2800,7 +2800,7 @@
             "open_issues": 56,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9510,
+            "stars": 9516,
             "topics": [
               "android",
               "framework",
@@ -2826,11 +2826,11 @@
             "id": 14735429,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-10T22:09:33Z",
-            "open_issues": 353,
+            "last_commit": "2026-11-16T14:55:54Z",
+            "open_issues": 352,
             "owner": "capstone-engine",
             "repo": "capstone",
-            "stars": 9194,
+            "stars": 9195,
             "topics": [
               "arm",
               "arm64",
@@ -2965,7 +2965,7 @@
             "open_issues": 70,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4946,
+            "stars": 4945,
             "topics": [
               "build-system",
               "ios",
@@ -2995,7 +2995,7 @@
             "open_issues": 43,
             "owner": "KJCracks",
             "repo": "Clutch",
-            "stars": 3832,
+            "stars": 3831,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -3065,33 +3065,6 @@
         },
         {
           "node_type": "item",
-          "title": "Hikari",
-          "description": "LLVM Obfuscator https://keybase.io/team/hikari",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "LLVM Obfuscator",
-            "homepage": null,
-            "id": 114925153,
-            "language": null,
-            "license": null,
-            "last_commit": "2023-01-29T07:55:38Z",
-            "open_issues": 2,
-            "owner": "HikariObfuscator",
-            "repo": "Hikari",
-            "stars": 2104,
-            "topics": [
-              "compiler",
-              "llvm",
-              "obfuscator",
-              "obfuscator-llvm",
-              "security"
-            ]
-          },
-          "first_seen": "2026-08-28T20:58:21.032Z"
-        },
-        {
-          "node_type": "item",
           "title": "insert_dylib",
           "description": "Command line utility for inserting a dylib load command into a Mach-O binary",
           "children": [],
@@ -3106,8 +3079,35 @@
             "open_issues": 2,
             "owner": "tyilo",
             "repo": "insert_dylib",
-            "stars": 2103,
+            "stars": 2104,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:58:21.032Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hikari",
+          "description": "LLVM Obfuscator https://keybase.io/team/hikari",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "LLVM Obfuscator",
+            "homepage": null,
+            "id": 114925153,
+            "language": null,
+            "license": null,
+            "last_commit": "2023-01-29T07:55:38Z",
+            "open_issues": 2,
+            "owner": "HikariObfuscator",
+            "repo": "Hikari",
+            "stars": 2103,
+            "topics": [
+              "compiler",
+              "llvm",
+              "obfuscator",
+              "obfuscator-llvm",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
         },
@@ -3508,11 +3508,11 @@
             "id": 27442967,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-14T16:45:47Z",
-            "open_issues": 659,
+            "last_commit": "2026-11-16T16:41:55Z",
+            "open_issues": 660,
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42389,
+            "stars": 42396,
             "topics": [
               "android",
               "apps",
@@ -3540,11 +3540,11 @@
             "id": 181042062,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T07:28:18Z",
-            "open_issues": 1024,
+            "last_commit": "2026-11-16T19:46:58Z",
+            "open_issues": 1005,
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 36905,
+            "stars": 36922,
             "topics": [
               "apple",
               "emulation",
@@ -3572,10 +3572,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T17:02:33Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26941,
+            "stars": 26944,
             "topics": [
               "animation",
               "bodymovin",
@@ -3633,7 +3633,7 @@
             "open_issues": 166,
             "owner": "danger",
             "repo": "danger",
-            "stars": 5696,
+            "stars": 5697,
             "topics": [
               "automation",
               "bitbucket",
@@ -3664,7 +3664,7 @@
             "open_issues": 13,
             "owner": "toddmotto",
             "repo": "public-apis",
-            "stars": 2745,
+            "stars": 2744,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:21.032Z"
@@ -3747,7 +3747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:31:10.081Z",
+    "last_updated": "2026-11-16T19:47:17.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools that every iOS developer should know.",
